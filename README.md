@@ -26,15 +26,15 @@ Edits made inside the live JupyterLite site stay in that browser unless they are
 
 - [content/00_webllm_starter.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/00_webllm_starter.ipynb): numbered copy of the starter notebook so the series sorts in teaching order.
 - [content/01_finding_models.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/01_finding_models.ipynb): focused notebook on browsing WebLLM models, reading model names, checking model cards, and managing the browser cache.
+- [content/02_talking_to_models.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/02_talking_to_models.ipynb): explains the OpenAI-style chat format, multi-turn conversations, response JSON, and the main generation settings.
+- [content/03_numbers_all_the_way_down.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/03_numbers_all_the_way_down.ipynb): browser-friendly version of the tokens notebook, focusing on token counts, chunking, and embeddings as numbers.
+- [content/04_memory.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/04_memory.ipynb): shows that models only remember the messages you send, then builds browser-only memory with SQLite and optional embedding search.
+- [content/05_sat_test_taker.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/05_sat_test_taker.ipynb): tests a small browser model on SAT-style multiple-choice questions and scores the results.
 - [content/webllm_starter.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/webllm_starter.ipynb): original starter notebook, kept temporarily as the broad sampler while the notebook series is being built.
 
-### Planned next notebooks
+### Broad sampler
 
-- `00_webllm_starter.ipynb`: renamed starter notebook that stays as the broad sampler.
-- `02_talking_to_models.ipynb`: the OpenAI-style chat format, prompt settings, multi-turn chat, and response JSON.
-- `03_numbers_all_the_way_down.ipynb`: tokens and tokenization, adapted for browser-based WebLLM models.
-- `04_memory.ipynb`: what a model remembers, plus browser-only chat memory stored in SQLite.
-- `05_sat_test_taker.ipynb`: optional experiment on how well a small browser model handles SAT-style questions.
+- [content/webllm_starter.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/webllm_starter.ipynb): sampler notebook that still mixes together the major ideas before they were split into the numbered series.
 
 ## Development notes
 
