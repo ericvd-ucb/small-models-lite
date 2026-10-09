@@ -25,12 +25,12 @@ Edits made inside the live JupyterLite site stay in that browser unless they are
 ### Current notebooks
 
 - [content/00_webllm_starter.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/00_webllm_starter.ipynb): numbered copy of the starter notebook so the series sorts in teaching order.
+- [content/01_finding_models.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/01_finding_models.ipynb): focused notebook on browsing WebLLM models, reading model names, checking model cards, and managing the browser cache.
 - [content/webllm_starter.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/webllm_starter.ipynb): original starter notebook, kept temporarily as the broad sampler while the notebook series is being built.
 
-### Planned notebook series
+### Planned next notebooks
 
 - `00_webllm_starter.ipynb`: renamed starter notebook that stays as the broad sampler.
-- `01_finding_models.ipynb`: how to browse models, read model names, inspect model cards, and manage the browser cache.
 - `02_talking_to_models.ipynb`: the OpenAI-style chat format, prompt settings, multi-turn chat, and response JSON.
 - `03_numbers_all_the_way_down.ipynb`: tokens and tokenization, adapted for browser-based WebLLM models.
 - `04_memory.ipynb`: what a model remembers, plus browser-only chat memory stored in SQLite.
