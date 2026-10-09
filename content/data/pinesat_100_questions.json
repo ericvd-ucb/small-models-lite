@@ -1,0 +1,2021 @@
+{
+  "dataset_name": "pinesat_100_questions",
+  "description": "A bundled 100-question snapshot from the PineSAT question bank, selected from the archived JSON store used by OpenSAT/PineSAT.",
+  "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+  "selection_notes": {
+    "english": {
+      "Easy": 10,
+      "Medium": 30,
+      "Hard": 10
+    },
+    "math": {
+      "Easy": 10,
+      "Medium": 25,
+      "Hard": 15
+    },
+    "random_seed": 5,
+    "total_questions": 100
+  },
+  "questions": [
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Easy",
+      "domain": "Expression of Ideas",
+      "id": "98b54a6e",
+      "question": "The use of short, choppy sentences in this passage most likely helps to",
+      "choices": "A) create a sense of urgency and excitement.\nB) establish the speaker\u2019s credibility.\nC) provide detailed information about the topic.\nD) explain the speaker\u2019s emotional state.",
+      "choice_map": {
+        "A": "create a sense of urgency and excitement.",
+        "B": "establish the speaker\u2019s credibility.",
+        "C": "provide detailed information about the topic.",
+        "D": "explain the speaker\u2019s emotional state."
+      },
+      "answer": "A",
+      "passage": "One of the most common ways to create a sense of urgency or excitement is to use short, choppy sentences. Short sentences can make the writing more direct and forceful. What effect does the use of short, choppy sentences have on the passage?",
+      "explanation": "The use of short, choppy sentences creates a sense of urgency and excitement. This is a common literary technique to make writing more forceful and direct.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Easy",
+      "domain": "Standard English Conventions",
+      "id": "random_id_b4",
+      "question": "The sentence below contains an error in punctuation. Which choice corrects the error? \\begin{center}We\u2019re having a potluck, so bring your favorite dish\u2014and a smile! \\end{center} ",
+      "choices": "A) We\u2019re having a potluck, so bring your favorite dish, and a smile!\nB) We\u2019re having a potluck, so bring your favorite dish and a smile! \nC) We\u2019re having a potluck, so bring your favorite dish\u2014and, a smile!\nD) We\u2019re having a potluck, so bring your favorite dish; and a smile!",
+      "choice_map": {
+        "A": "We\u2019re having a potluck, so bring your favorite dish, and a smile!",
+        "B": "We\u2019re having a potluck, so bring your favorite dish and a smile! ",
+        "C": "We\u2019re having a potluck, so bring your favorite dish\u2014and, a smile!",
+        "D": "We\u2019re having a potluck, so bring your favorite dish; and a smile!"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "A comma should be used before the coordinating conjunction \"and\" in a compound sentence. The original sentence incorrectly uses a dash before the coordinating conjunction, which is an error in punctuation.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Easy",
+      "domain": "Craft and Structure",
+      "id": "9e921f67",
+      "question": "The phrase \"It\u2019s as if we\u2019re expected to provide some kind of universal, inspirational, and, most importantly, hopeful response that will inspire others\" is used to",
+      "choices": "A) suggest that Black people are often asked to share their dreams.\nB) criticize Black people for their inability to be honest about their experiences.\nC) explain why Black people are often pressured to give hopeful responses.\nD) highlight the importance of sharing both positive and negative experiences.",
+      "choice_map": {
+        "A": "suggest that Black people are often asked to share their dreams.",
+        "B": "criticize Black people for their inability to be honest about their experiences.",
+        "C": "explain why Black people are often pressured to give hopeful responses.",
+        "D": "highlight the importance of sharing both positive and negative experiences."
+      },
+      "answer": "C",
+      "passage": "The following text is adapted from a 1998 essay by cultural critic and historian Henry Louis Gates Jr.:\n\"Black folks are so used to being asked about their dreams that it\u2019s almost impossible for us to be asked anything else. It\u2019s as if we\u2019re expected to provide some kind of universal, inspirational, and, most importantly, hopeful response that will inspire others. If we don\u2019t give the desired answer, we\u2019re often met with disappointment or even anger. But what about the experiences that don\u2019t fit the script? What about the moments that are painful, or frightening, or that leave us questioning who we are?\"\n",
+      "explanation": "The phrase explains why Black people are often pressured to give hopeful responses. The speaker is suggesting that there is a cultural expectation for Black people to always be positive and uplifting, even when they are experiencing difficult or painful emotions.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Easy",
+      "domain": "Standard English Conventions",
+      "id": "random_id_c5",
+      "question": "Which choice best completes the sentence below so that it conforms to the conventions of Standard English?  The dog was ______ the cat.  ",
+      "choices": "A) chasing\nB) chased\nC) chases\nD) chase",
+      "choice_map": {
+        "A": "chasing",
+        "B": "chased",
+        "C": "chases",
+        "D": "chase"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "The correct answer is \"chasing.\"  The sentence requires a present participle to modify the noun \"dog.\"  The other choices are incorrect because they are not present participles.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Easy",
+      "domain": "Standard English Conventions",
+      "id": "8a3264e3",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": "A) however,\nB) moreover,\nC) instead,\nD) therefore,",
+      "choice_map": {
+        "A": "however,",
+        "B": "moreover,",
+        "C": "instead,",
+        "D": "therefore,"
+      },
+      "answer": "C",
+      "passage": "The 1930s saw a surge in interest in \"modern\" art, which was a break from the tradition of representing objects and scenes in a realistic way. This new style, ______ emphasized abstraction and nonrepresentational forms, appealing to viewers\u2019 emotions rather than to their understanding of the world.",
+      "explanation": "The sentence sets up a contrast between the traditional style of art and the new modern style. The word \"instead\" indicates this contrast, contrasting the emphasis of modern art with the traditional style.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Easy",
+      "domain": "Standard English Conventions",
+      "id": "random_id_c5",
+      "question": "The writer uses the analogy of a piece of art most likely to",
+      "choices": "A) explain a complex concept in a way that is easy to understand.\nB) describe the speaker\u2019s personal experiences with art.\nC) convince the reader that literary merit is important.\nD) create a sense of beauty and elegance in the passage.",
+      "choice_map": {
+        "A": "explain a complex concept in a way that is easy to understand.",
+        "B": "describe the speaker\u2019s personal experiences with art.",
+        "C": "convince the reader that literary merit is important.",
+        "D": "create a sense of beauty and elegance in the passage."
+      },
+      "answer": "A",
+      "passage": "The writer is trying to explain the concept of \"literary merit.\" To do this, the writer uses the analogy of a piece of art. The goal is to communicate that, like a piece of art, a piece of literature can be appreciated for its beauty, its craftsmanship, and its power to move the reader.  The writer begins by saying that \"literary merit\" is not something that can be objectively measured. What is the most likely reason that the writer uses the analogy of a piece of art?",
+      "explanation": "The writer is using the analogy of art to make the abstract concept of \"literary merit\" more concrete and understandable for the reader.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Easy",
+      "domain": "Standard English Conventions",
+      "id": "random_id_e5",
+      "question": "Which choice best explains how the author\u2019s use of rhetorical devices helps to achieve the intended purpose?",
+      "choices": "A) The author\u2019s use of rhetorical devices helps to create a sense of urgency and importance.\nB) The author\u2019s use of rhetorical devices helps to create a sense of humor and lightheartedness.\nC) The author\u2019s use of rhetorical devices helps to create a sense of confusion and uncertainty.\nD) The author\u2019s use of rhetorical devices helps to create a sense of boredom and indifference.",
+      "choice_map": {
+        "A": "The author\u2019s use of rhetorical devices helps to create a sense of urgency and importance.",
+        "B": "The author\u2019s use of rhetorical devices helps to create a sense of humor and lightheartedness.",
+        "C": "The author\u2019s use of rhetorical devices helps to create a sense of confusion and uncertainty.",
+        "D": "The author\u2019s use of rhetorical devices helps to create a sense of boredom and indifference."
+      },
+      "answer": "A",
+      "passage": "The author of the text is trying to convince the reader that a particular issue is important. The author does this by using a series of rhetorical devices.  These devices include the use of vivid imagery, strong language, and emotional appeals.  The author also uses a lot of repetition to make the reader think about the issue and its consequences.  How does the author\u2019s use of rhetorical devices help to achieve the intended purpose?",
+      "explanation": "The author's use of rhetorical devices, including vivid imagery, strong language, and emotional appeals, helps to create a sense of urgency and importance.  This, in turn, helps to convince the reader that the issue is important.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Easy",
+      "domain": "Standard English Conventions",
+      "id": "random_id_11",
+      "question": "In this sentence, the semicolon is used to",
+      "choices": "A) create a sense of contrast between the two main clauses.\nB) indicate a pause between the two main clauses.\nC) emphasize the importance of the second main clause.\nD) join two independent clauses that are closely related.",
+      "choice_map": {
+        "A": "create a sense of contrast between the two main clauses.",
+        "B": "indicate a pause between the two main clauses.",
+        "C": "emphasize the importance of the second main clause.",
+        "D": "join two independent clauses that are closely related."
+      },
+      "answer": "D",
+      "passage": "The author chose to use a semicolon to separate the two independent clauses in the sentence, because the semicolon is the best punctuation mark to join two closely related ideas. The semicolon is the best choice for this sentence because it helps to create a smooth and natural transition between the two main clauses. What is the most likely reason why the writer used a semicolon in this sentence?",
+      "explanation": "The semicolon is the most common way to join two independent clauses that are closely related, such as those in this sentence. The author used a semicolon to join two closely related ideas, which helps to create a smooth and natural transition between the two clauses.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Easy",
+      "domain": "Standard English Conventions",
+      "id": "3c77395d",
+      "question": "Which choice best combines the sentences at the underlined portion to create a grammatically correct and stylistically effective sentence? ",
+      "choices": "A) Each sculpture was made with a unique combination of materials, and using a variety of techniques, the artist wanted each piece to convey a sense of unity and harmony.\nB) Each sculpture was made with a unique combination of materials, using a variety of techniques, the artist wanted each piece to convey a sense of unity and harmony.\nC) Each sculpture was made with a unique combination of materials, using a variety of techniques, the artist wanted to convey a sense of unity and harmony in each piece.\nD) Each sculpture was made with a unique combination of materials, and the artist wanted to convey a sense of unity and harmony in each piece.",
+      "choice_map": {
+        "A": "Each sculpture was made with a unique combination of materials, and using a variety of techniques, the artist wanted each piece to convey a sense of unity and harmony.",
+        "B": "Each sculpture was made with a unique combination of materials, using a variety of techniques, the artist wanted each piece to convey a sense of unity and harmony.",
+        "C": "Each sculpture was made with a unique combination of materials, using a variety of techniques, the artist wanted to convey a sense of unity and harmony in each piece.",
+        "D": "Each sculpture was made with a unique combination of materials, and the artist wanted to convey a sense of unity and harmony in each piece."
+      },
+      "answer": "D",
+      "passage": "The artist spent months researching and creating a series of intricate sculptures that reflected the beauty and complexity of nature.  Each sculpture was made with a unique combination of materials, and the artist used a variety of techniques.  In the end, however,  the artist wanted each piece to convey a sense of unity and harmony. ",
+      "explanation": "Choice D is the best option because it combines the two sentences smoothly and correctly using a comma and a conjunction.  Choice A uses incorrect punctuation.  Choice B is grammatically correct but stylistically awkward.  Choice C is grammatically correct but creates an unnecessary repetition of \"each piece.\"",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Easy",
+      "domain": "Standard English Conventions",
+      "id": "499cb491",
+      "question": "The dog, which was happy to see its owner, ______ its tail excitedly.",
+      "choices": "A) wag\nB) wagged\nC) wagging\nD) wags",
+      "choice_map": {
+        "A": "wag",
+        "B": "wagged",
+        "C": "wagging",
+        "D": "wags"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "The sentence requires a past tense verb to match the past tense verb \"was.\" Of the choices given, only \"wagged\" is in the past tense.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "random_id_d6",
+      "question": "Which choice best combines the sentences at the underlined portion to create a grammatically correct and stylistically effective sentence?",
+      "choices": "A) This finding was a direct challenge to the accepted view, that female participation in hunting was negligible.\nB) This finding directly challenged the accepted view, that female participation in hunting was negligible.\nC) This finding directly challenged the accepted view that female participation in hunting was negligible.\nD) This finding, a direct challenge to the accepted view, that female participation in hunting was negligible.",
+      "choice_map": {
+        "A": "This finding was a direct challenge to the accepted view, that female participation in hunting was negligible.",
+        "B": "This finding directly challenged the accepted view, that female participation in hunting was negligible.",
+        "C": "This finding directly challenged the accepted view that female participation in hunting was negligible.",
+        "D": "This finding, a direct challenge to the accepted view, that female participation in hunting was negligible."
+      },
+      "answer": "C",
+      "passage": "The researchers concluded that, in fact, as many as half of the hunters in the groups they studied were female. This finding was a direct challenge to the accepted view that female participation in hunting was negligible. ",
+      "explanation": "Choice C is the best option because it combines the two sentences while maintaining a correct grammatical structure and avoiding a comma splice.  The phrase \"a direct challenge to the accepted view\" is nonessential, so it should be set off with commas.  The phrase \"that female participation in hunting was negligible\" is a restrictive clause, so no comma is needed between the clause and the rest of the sentence.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Information and Ideas",
+      "id": "1532c114",
+      "question": "The author of this passage suggests that American art has",
+      "choices": "A) always been more influenced by European traditions than by American traditions.\nB) developed independently of European traditions.\nC) always been more concerned with realism than with abstraction.\nD) been shaped by both its embrace of and its departure from European traditions.",
+      "choice_map": {
+        "A": "always been more influenced by European traditions than by American traditions.",
+        "B": "developed independently of European traditions.",
+        "C": "always been more concerned with realism than with abstraction.",
+        "D": "been shaped by both its embrace of and its departure from European traditions."
+      },
+      "answer": "D",
+      "passage": "The passage is about the history of American art. The author uses a series of examples to illustrate the development of painting in the United States. The passage begins by discussing the early American painters who were influenced by European traditions. The author then describes the rise of American realism in the nineteenth century, and the passage concludes by exploring the development of abstract art in the twentieth century. The author focuses on the ways in which American artists have both embraced and challenged European traditions. What is the main point of the passage?",
+      "explanation": "The passage discusses how American artists have drawn from European traditions while also developing their own unique styles. This shows that American art has been shaped by both its embrace of and its departure from European traditions.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Expression of Ideas",
+      "id": "random_id_c4",
+      "question": "In this passage, the statement about the speaker\u2019s hesitancy to try something new is most likely included to",
+      "choices": "A) demonstrate the speaker\u2019s intelligence and maturity.\nB) highlight the importance of the speaker\u2019s point of view.\nC) provide a contrast to the positive effects of trying new things.\nD) show that the speaker is a relatable and sympathetic character.",
+      "choice_map": {
+        "A": "demonstrate the speaker\u2019s intelligence and maturity.",
+        "B": "highlight the importance of the speaker\u2019s point of view.",
+        "C": "provide a contrast to the positive effects of trying new things.",
+        "D": "show that the speaker is a relatable and sympathetic character."
+      },
+      "answer": "D",
+      "passage": "The author's purpose is to persuade the reader that it is worthwhile to try new things. The passage begins by describing a situation in which the speaker was hesitant to try something new, but then goes on to explain why the speaker eventually decided to try it. The speaker also discusses the positive effects of trying new things, such as the feeling of accomplishment and the chance to learn new skills. What is the most likely reason the author includes the statement about the speaker\u2019s hesitancy?",
+      "explanation": "The author wants to make a point that it's worthwhile to try new things. By including the statement about the speaker's hesitancy, the author shows that the speaker is a relatable and sympathetic character, which can make the speaker's message more persuasive.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Craft and Structure",
+      "id": "47f6c5d4",
+      "question": "The underlined sentence in the passage functions to",
+      "choices": "A) offer evidence to support a previous claim.\nB) introduce a comparison between two related ideas.\nC) describe the similarities between the Arctic and Antarctica.\nD) explain why the two regions are so different.",
+      "choice_map": {
+        "A": "offer evidence to support a previous claim.",
+        "B": "introduce a comparison between two related ideas.",
+        "C": "describe the similarities between the Arctic and Antarctica.",
+        "D": "explain why the two regions are so different."
+      },
+      "answer": "B",
+      "passage": "I have never been to the Arctic, but I have been to Antarctica. You could call the Arctic the \"top\" of the world and Antarctica the \"bottom.\" The Arctic is a frozen ocean surrounded by land, while Antarctica is a continent of land surrounded by ocean. Although the two regions are very different, they are similar in some ways. In both regions, the temperatures are extremely cold, the winters are long and dark, and the landscapes are vast and breathtakingly beautiful. Both regions are also home to unique ecosystems and wildlife. What is the function of the underlined sentence in the passage?",
+      "explanation": "The underlined sentence introduces a comparison between the Arctic and Antarctica, highlighting that they are similar in some ways despite their differences. This comparison helps to emphasize the main point of the passage: that while the Arctic and Antarctica are different, they also share some similarities.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "f890dc20",
+      "question": "Which of the following best summarizes the main idea of the passage?",
+      "choices": "A) The reasons for the decline in populations of *Chondrus crispus* are unclear, but the researchers have identified human activity as the root cause of the decline.\nB) The decline in populations of *Chondrus crispus* is not necessarily the result of human activity, but the researchers are looking at other possible explanations for this decline.\nC) The decline in populations of *Chondrus crispus* may be the result of human activity, but the researchers are unsure about the root cause of the decline.\nD) The researchers are unsure about the reasons for the decline in populations of *Chondrus crispus*, but they hope to identify the root cause of the decline by studying the algae over time.",
+      "choice_map": {
+        "A": "The reasons for the decline in populations of *Chondrus crispus* are unclear, but the researchers have identified human activity as the root cause of the decline.",
+        "B": "The decline in populations of *Chondrus crispus* is not necessarily the result of human activity, but the researchers are looking at other possible explanations for this decline.",
+        "C": "The decline in populations of *Chondrus crispus* may be the result of human activity, but the researchers are unsure about the root cause of the decline.",
+        "D": "The researchers are unsure about the reasons for the decline in populations of *Chondrus crispus*, but they hope to identify the root cause of the decline by studying the algae over time."
+      },
+      "answer": "C",
+      "passage": "A certain type of algae, called *Chondrus crispus,* is found in cold, rocky marine environments. It is a crucial source of *carrageenan,* a substance commonly used as a thickener in foods like ice cream. In 2022, researchers at the University of California, San Diego, noted that populations of *C. crispus* in the state are declining. The reasons for this decline are unclear, but the researchers suggested that human activity may be a factor.  The population of *C. crispus* was much higher in the 1990s than it is today. It was not until recent years that they noticed a change in the population of the algae. The decline in algae populations is not necessarily the result of human activity. The researchers are looking at other possible explanations for this decline.  The researchers hope to identify the root cause of the decline by studying the algae over time.  What is the main idea of the passage?",
+      "explanation": "The passage states that the decline in *C. crispus* populations is not necessarily the result of human activity, but that the researchers are looking at other possible explanations for the decline.  This suggests that human activity may be a factor, but the researchers are unsure about the root cause of the decline.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "a6e26915",
+      "question": "The sentence \"The process typically involves layering materials in a container, keeping them moist, and turning them regularly to promote aeration.\" is included in this passage primarily to",
+      "choices": "A) provide an example of a successful composting project.\nB) offer a detailed description of the composting process.\nC) introduce the concept of composting to the reader.\nD) compare home composting to other methods of waste management.",
+      "choice_map": {
+        "A": "provide an example of a successful composting project.",
+        "B": "offer a detailed description of the composting process.",
+        "C": "introduce the concept of composting to the reader.",
+        "D": "compare home composting to other methods of waste management."
+      },
+      "answer": "B",
+      "passage": "The process of composting has become increasingly popular in recent years, as people seek to reduce waste and improve soil health. Home composting involves breaking down organic materials, such as food scraps and yard waste, into a nutrient-rich soil amendment. The process typically involves layering materials in a container, keeping them moist, and turning them regularly to promote aeration. Once the composting process is complete, the resulting compost can be added to gardens or flower beds. What is the purpose of the sentence, \"The process typically involves layering materials in a container, keeping them moist, and turning them regularly to promote aeration.\"?",
+      "explanation": "The sentence provides a specific description of the steps involved in home composting. This detailed explanation helps the reader understand the process and its key elements.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Information and Ideas",
+      "id": "random_id_e8",
+      "question": "The talking raven in \"The Raven\" symbolizes the speaker's",
+      "choices": "A) capacity for resilience in the face of adversity.\nB) ability to find solace in the natural world.\nC) despair and hopelessness in the wake of grief.\nD) desire for connection and companionship.",
+      "choice_map": {
+        "A": "capacity for resilience in the face of adversity.",
+        "B": "ability to find solace in the natural world.",
+        "C": "despair and hopelessness in the wake of grief.",
+        "D": "desire for connection and companionship."
+      },
+      "answer": "C",
+      "passage": "The poem \"The Raven\" tells the story of a man who, mourning the loss of his beloved, is visited by a talking raven. The raven's constant repetition of the word \"Nevermore\" reflects the speaker's despair and hopelessness.  What does the poet use the talking raven to represent?",
+      "explanation": "The raven's constant repetition of the word \"Nevermore\" mirrors the speaker's despair and hopelessness. The raven's presence highlights the man's inability to move past his grief and find solace or hope.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "random_id_c8",
+      "question": "Which choice combines sentences 10 and 11 from the passage in a way that is grammatically correct and maintains the meaning of the passage? ",
+      "choices": "A) The concept of the \u2018wilderness\u2019 has changed, but the underlying values of the wilderness movement remain unchanged, and its meaning has become more contested.\nB) The concept of the \u2018wilderness\u2019 has changed, but the underlying values of the wilderness movement remain unchanged; its meaning has become more contested.\nC) The concept of the \u2018wilderness\u2019 has changed, but the underlying values of the wilderness movement remain unchanged; however, its meaning has become more contested.\nD) The concept of the \u2018wilderness\u2019 has changed, but the underlying values of the wilderness movement remain unchanged, as its meaning has become more contested.",
+      "choice_map": {
+        "A": "The concept of the \u2018wilderness\u2019 has changed, but the underlying values of the wilderness movement remain unchanged, and its meaning has become more contested.",
+        "B": "The concept of the \u2018wilderness\u2019 has changed, but the underlying values of the wilderness movement remain unchanged; its meaning has become more contested.",
+        "C": "The concept of the \u2018wilderness\u2019 has changed, but the underlying values of the wilderness movement remain unchanged; however, its meaning has become more contested.",
+        "D": "The concept of the \u2018wilderness\u2019 has changed, but the underlying values of the wilderness movement remain unchanged, as its meaning has become more contested."
+      },
+      "answer": "B",
+      "passage": "In the early 1900s, the United States saw a surge in interest in the natural world, especially in its wild places.  A new movement arose called the \u2018wilderness movement.\u2019  This movement, which focused on the preservation of areas untouched by human development, was led by people who believed that nature had intrinsic value.  The movement was also inspired by a growing sense that the modern world was losing something essential\u2014a connection to the natural world.  However, while the wilderness movement\u2019s goals are still championed today, the movement\u2019s approach to preserving wild places has become more nuanced in recent years.  The word \u2018wilderness,\u2019 which once denoted a pristine and untamed landscape, has now become more complex, and its meaning has become more contested.  Many people today argue that \u2018wilderness\u2019 is not a place that is completely free of human influence.  The concept of the \u2018wilderness\u2019 has changed, but the underlying values of the wilderness movement remain unchanged.  The word \u2018wilderness\u2019 has evolved, but the movement\u2019s fundamental goals continue to resonate.  What is the best way to combine sentences 10 and 11?",
+      "explanation": "The semicolon is used correctly to join two independent clauses that are closely related in meaning. The semicolon is used to indicate a stronger connection between the two clauses than a comma would create.  Choice A is incorrect because it creates a comma splice. Choice C is incorrect because the word \"however\" is unnecessary and changes the meaning of the original passage. Choice D is incorrect because it uses a comma after the word \"unchanged\" which is incorrect punctuation.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "random_id_a1",
+      "question": "Which choice best combines the sentences at the underlined portion to create the most effective and grammatically correct sentence? ",
+      "choices": "A) She lives with her guardian, Tante Louise, in a grand French house with a grim sleepy tante and no companions of her own age, in the story, \"Odalie\" is an 1899 short story by Alice Dunbar-Nelson, who portrays Odalie as eager to escape the monotony of her everyday life.\nB) She lives with her guardian, Tante Louise, in a grand French house with a grim sleepy tante and no companions of her own age; in the story, \"Odalie\" is an 1899 short story by Alice Dunbar-Nelson, who portrays Odalie as eager to escape the monotony of her everyday life.\nC) She lives with her guardian, Tante Louise, in a grand French house with a grim sleepy tante and no companions of her own age, and in the story, \"Odalie\" is an 1899 short story by Alice Dunbar-Nelson, who portrays Odalie as eager to escape the monotony of her everyday life.\nD) She lives with her guardian, Tante Louise, in a grand French house with a grim sleepy tante and no companions of her own age, but in the story, \"Odalie\" is an 1899 short story by Alice Dunbar-Nelson, who portrays Odalie as eager to escape the monotony of her everyday life.",
+      "choice_map": {
+        "A": "She lives with her guardian, Tante Louise, in a grand French house with a grim sleepy tante and no companions of her own age, in the story, \"Odalie\" is an 1899 short story by Alice Dunbar-Nelson, who portrays Odalie as eager to escape the monotony of her everyday life.",
+        "B": "She lives with her guardian, Tante Louise, in a grand French house with a grim sleepy tante and no companions of her own age; in the story, \"Odalie\" is an 1899 short story by Alice Dunbar-Nelson, who portrays Odalie as eager to escape the monotony of her everyday life.",
+        "C": "She lives with her guardian, Tante Louise, in a grand French house with a grim sleepy tante and no companions of her own age, and in the story, \"Odalie\" is an 1899 short story by Alice Dunbar-Nelson, who portrays Odalie as eager to escape the monotony of her everyday life.",
+        "D": "She lives with her guardian, Tante Louise, in a grand French house with a grim sleepy tante and no companions of her own age, but in the story, \"Odalie\" is an 1899 short story by Alice Dunbar-Nelson, who portrays Odalie as eager to escape the monotony of her everyday life."
+      },
+      "answer": "C",
+      "passage": "The novel\u2019s protagonist, a young woman named Odalie, is eager to escape the monotony of her everyday life. She lives with her guardian, Tante Louise, in a grand French house with a grim sleepy tante and no companions of her own age. In the story, \"Odalie\" is an 1899 short story by Alice Dunbar-Nelson, who portrays Odalie as eager to escape the monotony of her everyday life. Life in the French house, for Odalie, is a \u201cdull thing.\u201d  She is \u201cready for any new sensation.\u201d  In the old French house on Royal Street, with its quaint windows and Spanish courtyard green and cool, and made musical by the plashing of the fountain and the trill of caged birds, lived Odalie in convent-like seclusion. ",
+      "explanation": "Choice C is the best option to combine the sentences at the underlined portion. It uses the conjunction \"and\" to connect the two independent clauses, creating a grammatically correct sentence that flows smoothly. The other choices contain errors in punctuation and/or conjunction use.  Choice A uses a comma to connect two independent clauses, creating a comma splice.  Choice B uses a semicolon to connect two independent clauses, which creates a semicolon splice.  Choice D uses a comma followed by the conjunction \"but\" to connect two independent clauses, which creates a comma splice.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Craft and Structure",
+      "id": "f234a556",
+      "question": "The word \u201cformerly\u201d is used to",
+      "choices": "A) highlight the speaker\u2019s past innocence.\nB) create a sense of urgency and immediacy.\nC) emphasize the speaker\u2019s current understanding.\nD) foreshadow the speaker\u2019s future experiences.",
+      "choice_map": {
+        "A": "highlight the speaker\u2019s past innocence.",
+        "B": "create a sense of urgency and immediacy.",
+        "C": "emphasize the speaker\u2019s current understanding.",
+        "D": "foreshadow the speaker\u2019s future experiences."
+      },
+      "answer": "A",
+      "passage": "The poet begins the poem by describing the speaker's childhood as a time of innocence and wonder. As the poem progresses, the speaker's perspective shifts, and they begin to see the world with more maturity and understanding. What is the effect of the writer's use of \"formerly\"?",
+      "explanation": "The word \"formerly\" establishes a contrast between the speaker's past and present. This emphasizes the speaker's past innocence and contrasts it with their current understanding of the world.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Information and Ideas",
+      "id": "random_id_a2",
+      "question": "The main idea of the passage is that",
+      "choices": "A) the Higgs boson was discovered in 2012 at CERN, the European Organization for Nuclear Research.\nB) the Higgs boson is the last particle predicted by the Standard Model of particle physics to be found.\nC) the discovery of the Higgs boson is a major milestone in our understanding of the universe.\nD) the Higgs boson is a fundamental particle that gives mass to other particles.",
+      "choice_map": {
+        "A": "the Higgs boson was discovered in 2012 at CERN, the European Organization for Nuclear Research.",
+        "B": "the Higgs boson is the last particle predicted by the Standard Model of particle physics to be found.",
+        "C": "the discovery of the Higgs boson is a major milestone in our understanding of the universe.",
+        "D": "the Higgs boson is a fundamental particle that gives mass to other particles."
+      },
+      "answer": "C",
+      "passage": "The discovery of the Higgs boson particle, a fundamental particle that gives mass to other particles, was announced in 2012.  Scientists at CERN, the European Organization for Nuclear Research,  had been searching for the Higgs boson for decades, and they had built the Large Hadron Collider, a massive particle accelerator, to help in their search.  The Higgs boson was the last particle predicted by the Standard Model of particle physics to be found.  The discovery of the Higgs boson is considered to be a major milestone in our understanding of the universe.",
+      "explanation": "The passage focuses on the significance of the Higgs boson discovery and its impact on our understanding of the universe.  The other options are details from the passage, but they are not the main idea.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Information and Ideas",
+      "id": "486e510e",
+      "question": "The two parts of this passage are connected by",
+      "choices": "A) a comparison between Odalie\u2019s current life and her desire for a change.\nB) a contrast between Odalie\u2019s feelings and her reasons for feeling that way.\nC) a description of Odalie\u2019s social life and a description of her physical surroundings.\nD) an explanation of Odalie\u2019s feelings and a suggestion for how she might change her situation.",
+      "choice_map": {
+        "A": "a comparison between Odalie\u2019s current life and her desire for a change.",
+        "B": "a contrast between Odalie\u2019s feelings and her reasons for feeling that way.",
+        "C": "a description of Odalie\u2019s social life and a description of her physical surroundings.",
+        "D": "an explanation of Odalie\u2019s feelings and a suggestion for how she might change her situation."
+      },
+      "answer": "A",
+      "passage": "The narrator describes the setting as \"a great French house with a grim sleepy tante and no companions of one\u2019s own age, life becomes a dull thing, and one is ready for any new sensation.\"  The narrator then describes the feeling of \u201cshut up,\u201d and she complains that she has \u201cno companions\u201d except for her \u201csleepy tante.\u201d She also complains that her life is \u201cdull\u201d and that she is \u201cready for any new sensation,\u201d which suggests that she wants a change. Which statement best describes the connection between the two parts of this passage?",
+      "explanation": "The first part of the passage describes Odalie\u2019s current life, which she finds monotonous and dull. The second part of the passage describes Odalie\u2019s desire for a change.  The connection between these two parts is that the first part explains why Odalie wants a change:  she is unhappy with her current life.  ",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Information and Ideas",
+      "id": "random_id_e8",
+      "question": "The passage primarily focuses on",
+      "choices": "A) the USPS\u2019s decision to eliminate Saturday delivery of first-class mail and the reactions to this decision.\nB) the declining mail volumes that have been affecting the USPS in recent years.\nC) the USPS\u2019s efforts to improve efficiency and save money.\nD) the impact of the USPS\u2019s decision to eliminate Saturday delivery of first-class mail on rural communities.",
+      "choice_map": {
+        "A": "the USPS\u2019s decision to eliminate Saturday delivery of first-class mail and the reactions to this decision.",
+        "B": "the declining mail volumes that have been affecting the USPS in recent years.",
+        "C": "the USPS\u2019s efforts to improve efficiency and save money.",
+        "D": "the impact of the USPS\u2019s decision to eliminate Saturday delivery of first-class mail on rural communities."
+      },
+      "answer": "A",
+      "passage": "The United States Postal Service (USPS) has been facing declining mail volumes for years, with more people opting for electronic communication and e-commerce. In 2021, the USPS announced plans to eliminate Saturday delivery of first-class mail. This decision was met with mixed reactions, with some arguing that it would save the USPS money and improve efficiency, while others expressed concerns about the impact on rural communities and businesses that rely on mail delivery. Despite the USPS\u2019s claims that the change would not affect service quality, many remained skeptical, as the agency has faced criticism for its handling of mail in recent years.  What is the main idea of this passage?",
+      "explanation": "The passage primarily focuses on the USPS's decision to eliminate Saturday delivery of first-class mail and the reactions to this decision, including the arguments for and against the change, as well as the concerns about the impact on service quality.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "54c1b2dd",
+      "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": "A) waterways and the fact that,\nB) waterways, and the fact that,\nC) waterways, and, the fact that\nD) waterways and the fact that",
+      "choice_map": {
+        "A": "waterways and the fact that,",
+        "B": "waterways, and the fact that,",
+        "C": "waterways, and, the fact that",
+        "D": "waterways and the fact that"
+      },
+      "answer": "D",
+      "passage": "Gathering accurate data on water flow in the United States is challenging because of the country\u2019s millions of miles of ______ the volume and speed of water at any given location can vary drastically over time.",
+      "explanation": "Choice D is the best answer. The convention being tested is punctuation within two coordinated noun phrases. When, as in this case, a noun phrase (\"the country\u2019s millions of miles of waterways\") is coordinated with another noun phrase (\"the fact\") followed by an integrated relative clause (\"that the volume...time\"), no punctuation is needed.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Craft and Structure",
+      "id": "random_id_a5",
+      "question": "The phrase \"something akin to\" is used in the passage to",
+      "choices": "A) clarify the meaning of a complex idea.\nB) emphasize the importance of a complex idea.\nC) compare one complex idea to another.\nD) suggest that the narrator is unsure about the idea.",
+      "choice_map": {
+        "A": "clarify the meaning of a complex idea.",
+        "B": "emphasize the importance of a complex idea.",
+        "C": "compare one complex idea to another.",
+        "D": "suggest that the narrator is unsure about the idea."
+      },
+      "answer": "A",
+      "passage": "The narrator of this excerpt is trying to understand a complex idea, one that they initially found confusing. As the narrator explores the idea further, they begin to see the idea's importance and complexity, which is highlighted by their use of the phrase \"something akin to.\" The narrator\u2019s use of this phrase indicates that the narrator is beginning to understand that the idea has multiple layers or aspects. What is the most likely reason why the writer uses the phrase \"something akin to\"?",
+      "explanation": "The narrator uses the phrase \"something akin to\" to clarify the meaning of a complex idea. The phrase suggests that the narrator is beginning to grasp the idea and its significance. The narrator is comparing the idea to something else that is familiar to the reader.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Craft and Structure",
+      "id": "random_id_a1",
+      "question": "In this passage, the use of short, declarative sentences is most likely intended to",
+      "choices": "A) create a sense of immediacy and urgency.\nB) describe the speaker's feelings and experiences.\nC) emphasize the importance of the speaker's message.\nD) suggest that the speaker is addressing a large audience.",
+      "choice_map": {
+        "A": "create a sense of immediacy and urgency.",
+        "B": "describe the speaker's feelings and experiences.",
+        "C": "emphasize the importance of the speaker's message.",
+        "D": "suggest that the speaker is addressing a large audience."
+      },
+      "answer": "A",
+      "passage": "The author uses several rhetorical techniques to create a sense of urgency and excitement in the passage. For example, the author uses short, declarative sentences to create a sense of immediacy, and the author uses vivid imagery to create a sense of drama. What is the most likely reason why the writer uses short, declarative sentences?",
+      "explanation": "The use of short, declarative sentences creates a sense of immediacy and urgency. This helps to make the passage more engaging and exciting for the reader.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "random_id_a9",
+      "question": "Which choice completes the text with the most logical and precise words that maintain the parallel structure of the sentence?",
+      "choices": "A) expressive ... evocative\nB) expressively ... evocatively\nC) expressionistic ... evocative\nD) expressive ... evoking",
+      "choice_map": {
+        "A": "expressive ... evocative",
+        "B": "expressively ... evocatively",
+        "C": "expressionistic ... evocative",
+        "D": "expressive ... evoking"
+      },
+      "answer": "A",
+      "passage": "The passage describes an artist who is known for her use of color in her paintings. The artist believes that color can be a powerful tool for expressing emotion and telling stories. She uses vibrant hues to create a sense of joy and energy, and she uses darker colors to create a sense of melancholy and introspection. The artist\u2019s work is often described as being both  and  .",
+      "explanation": "The sentence is describing the artist\u2019s work by using two adjectives. To maintain parallel structure, both of these adjectives should be in the same form. Choice A is correct because the sentence maintains parallel structure by using two adjectives in the same form. Choices B, C, and D are incorrect because they do not maintain parallel structure.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "random_id_c9",
+      "question": "Which choice provides the best way to punctuate the sentence?",
+      "choices": "A) The friends loved to swim, hike, and play games, but they also enjoyed relaxing and talking in the evenings.\nB) The friends loved to swim, hike, and play games; but they also enjoyed relaxing and talking in the evenings.\nC) The friends loved to swim, hike, and play games, but they also enjoyed relaxing and talking, in the evenings.\nD) The friends loved to swim, hike, and play games; but, they also enjoyed relaxing and talking in the evenings.",
+      "choice_map": {
+        "A": "The friends loved to swim, hike, and play games, but they also enjoyed relaxing and talking in the evenings.",
+        "B": "The friends loved to swim, hike, and play games; but they also enjoyed relaxing and talking in the evenings.",
+        "C": "The friends loved to swim, hike, and play games, but they also enjoyed relaxing and talking, in the evenings.",
+        "D": "The friends loved to swim, hike, and play games; but, they also enjoyed relaxing and talking in the evenings."
+      },
+      "answer": "A",
+      "passage": "The following sentence is from a novel about a group of friends who spend a summer together at a lake house. \"The friends loved to swim,  hike, and play games, but they also enjoyed relaxing and talking  in the evenings.\" Which choice provides the best way to punctuate the sentence?",
+      "explanation": "The sentence contains two independent clauses, joined by the coordinating conjunction \"but.\" The most appropriate way to punctuate this sentence is to separate the two clauses with a comma. The other punctuation choices create either a comma splice (Choice B) or a sentence fragment (Choice C), both of which are grammatical errors. Choice D is incorrect because the comma before the conjunction \"but\" isn't necessary in this sentence.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "9ac321de",
+      "question": "Which choice best combines the sentences at the underlined portion so that they are grammatically correct and maintain the meaning of the passage?",
+      "choices": "A) This equation shows that the process of photosynthesis, which plants use to create their own food, results in the production of sugar and oxygen, while the sugar is used by the plant for growth and energy.\nB) This equation shows that the process of photosynthesis, which plants use to create their own food, results in the production of sugar and oxygen; while the sugar is used by the plant for growth and energy.\nC) This equation shows that the process of photosynthesis, which plants use to create their own food, results in the production of sugar and oxygen; the sugar is used by the plant for growth and energy.\nD) This equation shows that the process of photosynthesis, which plants use to create their own food, results in the production of sugar and oxygen, and the sugar is used by the plant for growth and energy.",
+      "choice_map": {
+        "A": "This equation shows that the process of photosynthesis, which plants use to create their own food, results in the production of sugar and oxygen, while the sugar is used by the plant for growth and energy.",
+        "B": "This equation shows that the process of photosynthesis, which plants use to create their own food, results in the production of sugar and oxygen; while the sugar is used by the plant for growth and energy.",
+        "C": "This equation shows that the process of photosynthesis, which plants use to create their own food, results in the production of sugar and oxygen; the sugar is used by the plant for growth and energy.",
+        "D": "This equation shows that the process of photosynthesis, which plants use to create their own food, results in the production of sugar and oxygen, and the sugar is used by the plant for growth and energy."
+      },
+      "answer": "D",
+      "passage": "The passage below is adapted from a science textbook discussing the process of photosynthesis. \\begin{align*} \\text{Carbon dioxide} + \\text{Water} + \\text{Sunlight} \\rightarrow \\text{Sugar} + \\text{Oxygen} \\end{align*} This equation shows that the process of photosynthesis, which plants use to create their own food, results in the production of sugar and oxygen. The sugar is used by the plant for growth and energy, while the oxygen is released into the atmosphere.",
+      "explanation": "Choice D is the best answer. The combined sentence is grammatically correct and maintains the meaning of the original passage.  The other choices contain errors in punctuation or comma use.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "76a4975b",
+      "question": "Which choice provides the best way to combine the sentences at the underlined portion to create a more concise and grammatically correct sentence?",
+      "choices": "A) In order to further their research, the team wanted to determine whether the birds\u2019 preference for large feet is a learned behavior or an instinctive one; to this end, the researchers conducted an experiment in which some blue-footed boobies were raised in captivity and then released into the wild.\nB) In order to further their research, the team wanted to determine whether the birds\u2019 preference for large feet is a learned behavior or an instinctive one, the researchers conducted an experiment in which some blue-footed boobies were raised in captivity and then released into the wild.\nC) In order to further their research, the team wanted to determine whether the birds\u2019 preference for large feet is a learned behavior or an instinctive one, and the researchers conducted an experiment in which some blue-footed boobies were raised in captivity and then released into the wild.\nD) In order to further their research, the team wanted to determine whether the birds\u2019 preference for large feet is a learned behavior or an instinctive one so the researchers conducted an experiment in which some blue-footed boobies were raised in captivity and then released into the wild.",
+      "choice_map": {
+        "A": "In order to further their research, the team wanted to determine whether the birds\u2019 preference for large feet is a learned behavior or an instinctive one; to this end, the researchers conducted an experiment in which some blue-footed boobies were raised in captivity and then released into the wild.",
+        "B": "In order to further their research, the team wanted to determine whether the birds\u2019 preference for large feet is a learned behavior or an instinctive one, the researchers conducted an experiment in which some blue-footed boobies were raised in captivity and then released into the wild.",
+        "C": "In order to further their research, the team wanted to determine whether the birds\u2019 preference for large feet is a learned behavior or an instinctive one, and the researchers conducted an experiment in which some blue-footed boobies were raised in captivity and then released into the wild.",
+        "D": "In order to further their research, the team wanted to determine whether the birds\u2019 preference for large feet is a learned behavior or an instinctive one so the researchers conducted an experiment in which some blue-footed boobies were raised in captivity and then released into the wild."
+      },
+      "answer": "B",
+      "passage": "A team of researchers has been studying the habits of a small species of bird, the blue-footed booby, in order to determine how the birds choose their mates. The researchers found that, in general, blue-footed boobies prefer to mate with individuals that have the largest feet.  The researchers theorize that larger feet may be an indicator of health and fitness.  In order to further their research, the team wanted to determine whether the birds\u2019 preference for large feet is a learned behavior or an instinctive one.  To this end, the researchers conducted an experiment in which some blue-footed boobies were raised in captivity and then released into the wild.   To measure the birds\u2019 preference for large feet, the researchers observed whether the birds, when given a choice between two potential mates, would choose the mate with the larger feet.  Of the twenty birds that were raised in captivity, fourteen chose the mate with the larger feet.  This finding suggests that the blue-footed booby\u2019s preference for large feet may be an instinctive behavior, rather than a learned one.  Although the researchers\u2019 findings do not prove their hypothesis, the results are suggestive.  However, the researchers acknowledged that their experiment had a significant limitation.  The birds were only allowed to choose between two potential mates, so it is not possible to know for certain that the birds would choose the mate with the larger feet if given more options.  Furthermore, the researchers did not consider other factors that may have influenced the birds\u2019 mate selection, such as the birds\u2019 age or the availability of food.  Despite these limitations, the researchers\u2019 findings suggest that there is a genetic component to blue-footed boobies\u2019 preference for large feet.",
+      "explanation": "The best way to combine the sentences is to use a comma after \u201cone\u201d to indicate that the second clause is a dependent clause that clarifies the first clause. The semicolon is incorrect because it indicates that the two clauses are independent but of equal weight. The comma followed by \u201cso\u201d is incorrect because it indicates that the second clause is a dependent clause that provides a consequence of the first clause. The comma followed by \u201cand\u201d is incorrect because it indicates that the two clauses are independent but of equal weight, creating a run-on sentence.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "random_id_a1",
+      "question": "Which choice best combines the two sentences below into a single sentence that is grammatically correct and avoids redundancy? *The author of the passage describes the process of creating a new product. The author also explains how this process can be used to create a successful product.*",
+      "choices": "A) The author of the passage describes the process of creating a new product, and explains how this process can be used to create a successful product.\nB) The author of the passage describes the process of creating a new product; and explains how this process can be used to create a successful product.\nC) The author of the passage describes the process of creating a new product; explaining how this process can be used to create a successful product.\nD) The author of the passage describes the process of creating a new product, explaining how this process can be used to create a successful product.",
+      "choice_map": {
+        "A": "The author of the passage describes the process of creating a new product, and explains how this process can be used to create a successful product.",
+        "B": "The author of the passage describes the process of creating a new product; and explains how this process can be used to create a successful product.",
+        "C": "The author of the passage describes the process of creating a new product; explaining how this process can be used to create a successful product.",
+        "D": "The author of the passage describes the process of creating a new product, explaining how this process can be used to create a successful product."
+      },
+      "answer": "A",
+      "passage": "The author of the passage describes the process of creating a new product and then explains how this process can be used to create a successful product. The author also describes the importance of careful planning and attention to detail. ",
+      "explanation": "Choice A is the best way to combine the sentences because it uses a comma and a coordinating conjunction to join two independent clauses.  Choice B is incorrect because it uses a semicolon to join two independent clauses. A semicolon is only correct if the clauses are closely related in meaning. Choice C is incorrect because it uses a semicolon to join two independent clauses, and it incorrectly uses a comma after the conjunction. Choice D is incorrect because it uses a comma to join two independent clauses. A comma is only correct if the clauses are closely related in meaning.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "6f74b53f",
+      "question": "Which choice is the most effective way to combine the sentences at the underlined portion so that they are grammatically correct and the meaning of the passage is maintained?",
+      "choices": "A) The invention of the printing press in the 15th century led to the mass production of books, enabling a wider audience to access information, which had an enormous impact on the dissemination of knowledge. \nB) The invention of the printing press in the 15th century led to the mass production of books, which had an enormous impact on the dissemination of knowledge, and \nC) The invention of the printing press in the 15th century led to the mass production of books, and this had an enormous impact on the dissemination of knowledge. \nD) The invention of the printing press in the 15th century led to the mass production of books, and this had an enormous impact on the dissemination of knowledge, but",
+      "choice_map": {
+        "A": "The invention of the printing press in the 15th century led to the mass production of books, enabling a wider audience to access information, which had an enormous impact on the dissemination of knowledge. ",
+        "B": "The invention of the printing press in the 15th century led to the mass production of books, which had an enormous impact on the dissemination of knowledge, and ",
+        "C": "The invention of the printing press in the 15th century led to the mass production of books, and this had an enormous impact on the dissemination of knowledge. ",
+        "D": "The invention of the printing press in the 15th century led to the mass production of books, and this had an enormous impact on the dissemination of knowledge, but"
+      },
+      "answer": "C",
+      "passage": "The invention of the printing press in the 15th century led to the mass production of books, which enabled a wider audience to access information. The printing press's invention had an enormous impact on the dissemination of knowledge.  However, the printing press also had a negative effect on society, as it often led to the spread of misinformation and the suppression of dissenting voices.  ",
+      "explanation": "Choice C is the best way to combine the sentences because it uses a comma and a coordinating conjunction to link the two independent clauses.  Choice A is incorrect because it uses a comma and a nonrestrictive clause, which is not the correct way to combine two independent clauses. Choice B is incorrect because it creates a comma splice: there is no conjunction to connect the two clauses.  Choice D is incorrect because it uses a comma and a coordinating conjunction to link the two independent clauses, but the conjunction \"but\" doesn\u2019t logically connect the ideas in the sentences. It would make more sense to use the conjunction \"however\" to indicate a contrast between the ideas.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Craft and Structure",
+      "id": "random_id_c3",
+      "question": "The author\u2019s description of the \u201cdark, empty halls\u201d and the \u201csilent, empty rooms\u201d is primarily intended to",
+      "choices": "A) evoke the speaker\u2019s sense of loneliness and despair.\nB) create a sense of mystery and suspense.\nC) highlight the physical surroundings of the speaker\u2019s home.\nD) emphasize the speaker\u2019s sense of power and authority.",
+      "choice_map": {
+        "A": "evoke the speaker\u2019s sense of loneliness and despair.",
+        "B": "create a sense of mystery and suspense.",
+        "C": "highlight the physical surroundings of the speaker\u2019s home.",
+        "D": "emphasize the speaker\u2019s sense of power and authority."
+      },
+      "answer": "A",
+      "passage": "The author uses various literary devices in the passage to create a sense of the speaker's isolation and alienation. One of these devices is the use of imagery, such as the description of the \u201cdark, empty halls\u201d and the \u201csilent, empty rooms.\u201d The author also uses figurative language, such as the metaphor of the \u201cshadow\u201d that \u201cfollowed\u201d the speaker, which suggests that the speaker\u2019s isolation is pervasive and inescapable. What is the purpose of the author\u2019s description of the \u201cdark, empty halls\u201d and the \u201csilent, empty rooms?\u201d",
+      "explanation": "The description of the \u201cdark, empty halls\u201d and the \u201csilent, empty rooms\u201d creates a vivid image of a lonely and desolate space. This imagery evokes a sense of loneliness and despair, which contributes to the overall sense of isolation and alienation that the author conveys about the speaker.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Information and Ideas",
+      "id": "95f1ab7d",
+      "question": "What is the main purpose of the passage?",
+      "choices": "A) To describe the physical characteristics of the unfamiliar region.\nB) To explain the narrator\u2019s feelings about the trip.\nC) To provide a detailed account of the narrator\u2019s journey.\nD) To analyze the narrator\u2019s use of language.",
+      "choice_map": {
+        "A": "To describe the physical characteristics of the unfamiliar region.",
+        "B": "To explain the narrator\u2019s feelings about the trip.",
+        "C": "To provide a detailed account of the narrator\u2019s journey.",
+        "D": "To analyze the narrator\u2019s use of language."
+      },
+      "answer": "B",
+      "passage": "The narrator of this passage describes a trip through an unfamiliar region. The narrator suggests that the trip was \"somewhat embarrassing.\" The most direct evidence of this embarrassment is the narrator\u2019s comment that he is \"not entirely confident that I could retrace my steps if I needed to.\" The narrator\u2019s embarrassment is also evident in his language. He uses phrases such as \"confusedly\" and \"winding about\" to describe his journey.",
+      "explanation": "The passage focuses on the narrator\u2019s feelings about the trip, particularly the narrator\u2019s embarrassment about getting lost and the narrator\u2019s discomfort with the uncertainty of his surroundings.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "random_id_d9",
+      "question": "The writer most likely uses a variety of literary devices in the passage to",
+      "choices": "A) make the passage more engaging and interesting for the reader.\nB) show off the writer's knowledge of literary devices.\nC) create a sense of mystery and suspense.\nD) make the passage more formal and academic.",
+      "choice_map": {
+        "A": "make the passage more engaging and interesting for the reader.",
+        "B": "show off the writer's knowledge of literary devices.",
+        "C": "create a sense of mystery and suspense.",
+        "D": "make the passage more formal and academic."
+      },
+      "answer": "A",
+      "passage": "The author of this book uses a variety of literary devices. For example, the author uses metaphors to help the reader understand complex ideas, and the author uses similes to make comparisons. The author also uses personification to give human qualities to inanimate objects. What is the most likely reason why the writer uses a variety of literary devices in this passage?",
+      "explanation": "The writer is using a variety of literary devices to make the passage more engaging and interesting for the reader.  This is a common way for writers to make their work more enjoyable for the reader.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "random_id_a1",
+      "question": "Which choice provides the best way to combine the sentences in the underlined portion of the passage to create a more concise and grammatically correct sentence?",
+      "choices": "A) The researchers discovered that people with a strong sense of purpose were more likely to bounce back from setbacks, and they were more likely to have a positive outlook on life and to be optimistic about the future.\nB) The researchers discovered that those who were able to identify a clear purpose in life were more likely to bounce back from setbacks, to have a positive outlook on life, and to be optimistic about the future.\nC) The researchers discovered that those who were able to identify a clear purpose in life were more likely to bounce back from setbacks, have a positive outlook on life, and be optimistic about the future.\nD) The researchers discovered that people with a strong sense of purpose were more likely to bounce back from setbacks, to have a positive outlook on life, and be optimistic about the future.",
+      "choice_map": {
+        "A": "The researchers discovered that people with a strong sense of purpose were more likely to bounce back from setbacks, and they were more likely to have a positive outlook on life and to be optimistic about the future.",
+        "B": "The researchers discovered that those who were able to identify a clear purpose in life were more likely to bounce back from setbacks, to have a positive outlook on life, and to be optimistic about the future.",
+        "C": "The researchers discovered that those who were able to identify a clear purpose in life were more likely to bounce back from setbacks, have a positive outlook on life, and be optimistic about the future.",
+        "D": "The researchers discovered that people with a strong sense of purpose were more likely to bounce back from setbacks, to have a positive outlook on life, and be optimistic about the future."
+      },
+      "answer": "C",
+      "passage": "A new study found that people who have a strong sense of purpose in life tend to be more resilient in the face of adversity. The study, which was conducted by a team of researchers at a major university, surveyed a large sample of participants, asking them about their sense of purpose and their ability to cope with challenges. The researchers discovered that those who were able to identify a clear purpose in life were more likely to bounce back from setbacks. They also discovered that people with a strong sense of purpose were more likely to have a positive outlook on life and to be optimistic about the future.",
+      "explanation": "Choice C provides the most concise and grammatically correct combination of the two sentences. The use of the comma after \"setbacks\" correctly connects the two independent clauses, and the use of the infinitive phrase \"to be optimistic about the future\" avoids the repetition of \"were more likely\" that occurs in Choices A, B, and D.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "random_id_22",
+      "question": "Which choice provides the best way to combine the first two sentences of the passage?",
+      "choices": "A) After a long day of working in the hot sun, the construction crew was ready to leave, and they eagerly made their way to the nearby ice cream shop.\nB) After a long day of working in the hot sun, the construction crew was ready to leave; they eagerly made their way to the nearby ice cream shop.\nC) The construction crew was ready to leave after a long day of working in the hot sun; they eagerly made their way to the nearby ice cream shop.\nD) After a long day of working in the hot sun, the construction crew was ready to leave, eagerly making their way to the nearby ice cream shop.",
+      "choice_map": {
+        "A": "After a long day of working in the hot sun, the construction crew was ready to leave, and they eagerly made their way to the nearby ice cream shop.",
+        "B": "After a long day of working in the hot sun, the construction crew was ready to leave; they eagerly made their way to the nearby ice cream shop.",
+        "C": "The construction crew was ready to leave after a long day of working in the hot sun; they eagerly made their way to the nearby ice cream shop.",
+        "D": "After a long day of working in the hot sun, the construction crew was ready to leave, eagerly making their way to the nearby ice cream shop."
+      },
+      "answer": "A",
+      "passage": "After a long day of working in the hot sun, the construction crew was ready to leave. They eagerly made their way to the nearby ice cream shop, which they knew had the best ice cream in town. Each member of the crew ordered a double scoop, enjoying the sweet treat. They were all looking forward to the next day, when they would be able to start working on the next part of the project. ",
+      "explanation": "Choice A is the best option because it combines the two sentences with a comma and a conjunction, which is a grammatically correct way to combine two independent clauses. The comma before the conjunction helps to separate the clauses and make the sentence flow smoothly. The other choices are incorrect. Choice B is incorrect because a semicolon is not an appropriate way to combine these two clauses, as they are not closely related in meaning. Choice C is incorrect because a semicolon is not an appropriate way to combine these two clauses, as they are not closely related in meaning. Choice D is incorrect because the phrase \u201ceagerly making their way\u201d modifies the noun \u201cconstruction crew.\u201d This is grammatically incorrect, as the phrase is not correctly placed in the sentence.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Expression of Ideas",
+      "id": "random_id_c4",
+      "question": "The author\u2019s argument is that the word \"cool\"",
+      "choices": "A) is a synonym for \"good\" and is therefore appropriate for use in any situation.\nB) is used to describe things that are fashionable or modern, and this use signals a shift in the speaker\u2019s perception of what is considered desirable.\nC) is often used to describe things that are not necessarily good in a traditional or moral sense, and this use suggests that the speaker is being ironic.\nD) can be used to describe things that are good in a traditional or moral sense, but this use is not necessarily modern.",
+      "choice_map": {
+        "A": "is a synonym for \"good\" and is therefore appropriate for use in any situation.",
+        "B": "is used to describe things that are fashionable or modern, and this use signals a shift in the speaker\u2019s perception of what is considered desirable.",
+        "C": "is often used to describe things that are not necessarily good in a traditional or moral sense, and this use suggests that the speaker is being ironic.",
+        "D": "can be used to describe things that are good in a traditional or moral sense, but this use is not necessarily modern."
+      },
+      "answer": "B",
+      "passage": "The author\u2019s argument that the use of the word \"cool\" as a synonym for \"good\" signals a shift in the speaker\u2019s perception of what is considered desirable is supported by the fact that \"cool\" is often used to describe things that are fashionable or modern, not necessarily things that are good in a traditional or moral sense.  What is the author\u2019s argument?",
+      "explanation": "The author\u2019s argument is that the use of the word \"cool\" to describe things that are fashionable or modern suggests a shift in the speaker\u2019s perception of what is considered desirable. The author is arguing that \"cool\" is not just a synonym for \"good,\" but is also used to describe things that are fashionable or modern. This suggests that the speaker is using the word \"cool\" in a way that is not necessarily traditional or moral, and this shift in meaning suggests a change in the speaker\u2019s perception of what is considered desirable.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Information and Ideas",
+      "id": "a9285f0b",
+      "question": "In this passage, the word \"you\" is used to",
+      "choices": "A) create a sense of intimacy and connection with the reader.\nB) describe the speaker\u2019s feelings and experiences.\nC) emphasize the importance of the speaker\u2019s message.\nD) suggest that the speaker is addressing a large audience.",
+      "choice_map": {
+        "A": "create a sense of intimacy and connection with the reader.",
+        "B": "describe the speaker\u2019s feelings and experiences.",
+        "C": "emphasize the importance of the speaker\u2019s message.",
+        "D": "suggest that the speaker is addressing a large audience."
+      },
+      "answer": "A",
+      "passage": "The most obvious sign that the speaker is speaking directly to the reader is the use of the word \"you.\" There are other elements of the passage that may help to make the speaker seem more immediate and personal. The speaker refers to events and places that are familiar to the reader, and the speaker uses a conversational tone throughout the passage. What is the most likely reason why the writer uses the word \"you\"?",
+      "explanation": "The speaker is addressing the reader directly by using the word \"you.\" This creates a sense of intimacy and connection with the reader, which can help the reader feel more engaged with the message.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Medium",
+      "domain": "Standard English Conventions",
+      "id": "595b271e",
+      "question": "In the excerpt, the hyphen between \"shoulder\" and \"seasons\" is used to",
+      "choices": "A) indicate that the two words are functioning as a compound adjective.\nB) separate two clauses that are closely related.\nC) emphasize the importance of the shoulder seasons.\nD) create a sense of rhythm and flow in the sentence.",
+      "choice_map": {
+        "A": "indicate that the two words are functioning as a compound adjective.",
+        "B": "separate two clauses that are closely related.",
+        "C": "emphasize the importance of the shoulder seasons.",
+        "D": "create a sense of rhythm and flow in the sentence."
+      },
+      "answer": "A",
+      "passage": "The following excerpt is taken from a travel blog about the best time to visit a region of the world. \"The best time to visit the region is during the shoulder seasons - spring and autumn. Shoulder seasons are a time of transition between peak season and off-season. During shoulder seasons, the region's weather is pleasant and the crowds are smaller, making for a more enjoyable experience.\" What is the most likely reason why the writer uses a hyphen between \"shoulder\" and \"seasons\"?",
+      "explanation": "The hyphen between \"shoulder\" and \"seasons\" is used to indicate that the two words are functioning as a compound adjective. A compound adjective is a combination of two or more words that act as a single adjective. The compound adjective \"shoulder-seasons\" modifies the noun phrase \"time of transition.\" The hyphen is necessary to indicate that \"shoulder\" and \"seasons\" are working together as a single unit. This is a common convention of Standard English. The word \"shoulder seasons\" is a compound noun acting as an adjective and should be hyphenated to make it clear that the two words are functioning together as a single unit.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Hard",
+      "domain": "Expression of Ideas",
+      "id": "23a8c11d",
+      "question": "What is the primary purpose of the author\u2019s use of multiple persuasive techniques in this passage?",
+      "choices": "A) To present a balanced and objective view of the topic.\nB) To create a sense of urgency and immediacy.\nC) To engage the reader\u2019s interest and understanding.\nD) To establish the author\u2019s credibility and expertise.",
+      "choice_map": {
+        "A": "To present a balanced and objective view of the topic.",
+        "B": "To create a sense of urgency and immediacy.",
+        "C": "To engage the reader\u2019s interest and understanding.",
+        "D": "To establish the author\u2019s credibility and expertise."
+      },
+      "answer": "C",
+      "passage": "The author of the passage explores a complex topic by using a variety of techniques to persuade the reader, including appealing to the reader\u2019s emotions, using logic and reason, and providing vivid examples. These techniques work together to create a compelling argument that is both persuasive and insightful.",
+      "explanation": "The author uses a variety of persuasive techniques to engage the reader\u2019s interest and understanding. This is evident in the author\u2019s use of emotional appeals, logical arguments, and vivid examples, all of which work together to create a compelling and insightful argument.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Hard",
+      "domain": "Standard English Conventions",
+      "id": "119b489c",
+      "question": "Which choice most effectively combines the sentences at the underlined portion?",
+      "choices": "A) The *Architeuthis dux*, a type of squid, is characterized by its enormous size, and it can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.\nB) The *Architeuthis dux*, which is a type of squid, is characterized by its enormous size, and it can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.\nC) The *Architeuthis dux*, a type of squid, is characterized by its enormous size, and can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.\nD) The *Architeuthis dux*, a type of squid, is characterized by its enormous size, and can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
+      "choice_map": {
+        "A": "The *Architeuthis dux*, a type of squid, is characterized by its enormous size, and it can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
+        "B": "The *Architeuthis dux*, which is a type of squid, is characterized by its enormous size, and it can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
+        "C": "The *Architeuthis dux*, a type of squid, is characterized by its enormous size, and can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
+        "D": "The *Architeuthis dux*, a type of squid, is characterized by its enormous size, and can reach a length of up to 60 feet. These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature."
+      },
+      "answer": "A",
+      "passage": "The recent discovery of a previously unknown species of deep-sea fish, the *Architeuthis dux*, has sent shockwaves through the scientific community. Scientists had long believed that the *Architeuthis dux* was a solitary creature, but the new findings suggest that it may be a social animal. The *Architeuthis dux*, which is a type of squid, is characterized by its enormous size, and can reach a length of up to 60 feet.  These findings, scientists believe, will lead to further research into the social behavior of this fascinating creature.",
+      "explanation": "The best way to combine the sentences is to use a comma after the word \"size\" and to add the conjunction \"and\" to the second sentence. This creates a grammatically correct sentence and maintains the flow of the passage.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Hard",
+      "domain": "Craft and Structure",
+      "id": "a70cbc53",
+      "question": "Which choice best describes the overall structure of the text?",
+      "choices": "A) It introduces a collaborative spoken word poetry project, details the approach taken to produce the work, and then provides an example of critique the album received upon release.\nB) It mentions a collection of spoken word poems, distinguishes one poem as being an exemplar on the album, and then offers a summary of the subject matter of the whole collection.\nC) It summarizes the efforts to produce a collection of spoken word poems, presents biographies of two people who worked on the album, and speculates about the meaning behind the poetry.\nD) It connects two artists to the same spoken word poetry project, explains the extent of their collaboration on each poem, and then provides an overview of the technique used to produce the work.",
+      "choice_map": {
+        "A": "It introduces a collaborative spoken word poetry project, details the approach taken to produce the work, and then provides an example of critique the album received upon release.",
+        "B": "It mentions a collection of spoken word poems, distinguishes one poem as being an exemplar on the album, and then offers a summary of the subject matter of the whole collection.",
+        "C": "It summarizes the efforts to produce a collection of spoken word poems, presents biographies of two people who worked on the album, and speculates about the meaning behind the poetry.",
+        "D": "It connects two artists to the same spoken word poetry project, explains the extent of their collaboration on each poem, and then provides an overview of the technique used to produce the work."
+      },
+      "answer": "A",
+      "passage": "Raymond Antrobus, an accomplished poet and writer of prose, recently released his debut spoken word poetry album, *The First Time I Wore Hearing Aids*, in collaboration with producer Ian Brennan. The album contains both autobiographical and reflective pieces combining Antrobus\u2019s spoken words with Brennan\u2019s fragmented audio elements and pieces of music to convey how people who are deaf may experience sound, both its presence and absence. Some critics suggest that the album questions the function of sound in the world, highlighting that the experience of sound is multifaceted.",
+      "explanation": "Choice A is the best answer. The text first introduces the album as being a collaboration between Antrobus and Brennan, then describes the approach taken to produce it, then mentions how critics have said that it calls into question the function of sound.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Hard",
+      "domain": "Craft and Structure",
+      "id": "61f099e4",
+      "question": "The rhetorical questions in this passage most likely function to",
+      "choices": "A) develop an argument.\nB) provide background information.\nC) demonstrate the speaker\u2019s authority.\nD) persuade the reader to agree with the speaker\u2019s point of view.",
+      "choice_map": {
+        "A": "develop an argument.",
+        "B": "provide background information.",
+        "C": "demonstrate the speaker\u2019s authority.",
+        "D": "persuade the reader to agree with the speaker\u2019s point of view."
+      },
+      "answer": "D",
+      "passage": "In this passage, the author uses a series of rhetorical questions to",
+      "explanation": "The rhetorical questions in this passage function to persuade the reader to agree with the speaker\u2019s point of view. The speaker is posing these questions to get the reader to think about the issue and come to the same conclusion.  The author is using a rhetorical technique to get the reader to think and agree with their conclusion.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Hard",
+      "domain": "Craft and Structure",
+      "id": "622a351d",
+      "question": "In this essay, figurative language is used primarily to",
+      "choices": "A) create a sense of urgency and immediacy.\nB) explain complex concepts in a more accessible way.\nC) highlight the author\u2019s personal experiences and beliefs.\nD) emphasize the emotional impact of the author\u2019s ideas.",
+      "choice_map": {
+        "A": "create a sense of urgency and immediacy.",
+        "B": "explain complex concepts in a more accessible way.",
+        "C": "highlight the author\u2019s personal experiences and beliefs.",
+        "D": "emphasize the emotional impact of the author\u2019s ideas."
+      },
+      "answer": "B",
+      "passage": "In the essay, the author uses several stylistic choices to enhance the overall argument, including the use of short sentences and the repetition of phrases.  The author also uses figurative language, such as metaphors and similes, to help readers visualize the complex concepts being discussed. What is the primary function of the figurative language?",
+      "explanation": "Figurative language is used to make complex concepts more accessible to readers. By using metaphors and similes, the author can create vivid images in the reader's mind, which can help to make the concepts more understandable.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Hard",
+      "domain": "Standard English Conventions",
+      "id": "947bc92f",
+      "question": "Which of the following choices corrects the punctuation errors in the sentence above?",
+      "choices": "A) Many people believe that the \"Great Resignation,\" which began during the COVID-19 pandemic, was caused by the pandemic and its aftermath. This, however, is not entirely true. While the pandemic and its aftermath may have played a role; the \"Great Resignation\" was also fueled by a growing sense of dissatisfaction among workers, who felt that they were being taken advantage of.\nB) Many people believe that the \"Great Resignation,\" which began during the COVID-19 pandemic, was caused by the pandemic and its aftermath. This, however, is not entirely true. While the pandemic and its aftermath may have played a role, the \"Great Resignation\" was also fueled by a growing sense of dissatisfaction among workers, who felt that they were being taken advantage of.\nC) Many people believe that the \"Great Resignation\", which began during the COVID-19 pandemic, was caused by the pandemic and its aftermath. This however, is not entirely true. While the pandemic and its aftermath may have played a role, the \"Great Resignation\" was also fueled by a growing sense of dissatisfaction among workers, who felt that they were being taken advantage of.\nD) Many people believe that the \"Great Resignation\", which began during the COVID-19 pandemic, was caused by the pandemic and its aftermath. This, however, is not entirely true. While the pandemic and its aftermath may have played a role, the \"Great Resignation\" was also fueled by a growing sense of dissatisfaction among workers who felt that they were being taken advantage of.",
+      "choice_map": {
+        "A": "Many people believe that the \"Great Resignation,\" which began during the COVID-19 pandemic, was caused by the pandemic and its aftermath. This, however, is not entirely true. While the pandemic and its aftermath may have played a role; the \"Great Resignation\" was also fueled by a growing sense of dissatisfaction among workers, who felt that they were being taken advantage of.",
+        "B": "Many people believe that the \"Great Resignation,\" which began during the COVID-19 pandemic, was caused by the pandemic and its aftermath. This, however, is not entirely true. While the pandemic and its aftermath may have played a role, the \"Great Resignation\" was also fueled by a growing sense of dissatisfaction among workers, who felt that they were being taken advantage of.",
+        "C": "Many people believe that the \"Great Resignation\", which began during the COVID-19 pandemic, was caused by the pandemic and its aftermath. This however, is not entirely true. While the pandemic and its aftermath may have played a role, the \"Great Resignation\" was also fueled by a growing sense of dissatisfaction among workers, who felt that they were being taken advantage of.",
+        "D": "Many people believe that the \"Great Resignation\", which began during the COVID-19 pandemic, was caused by the pandemic and its aftermath. This, however, is not entirely true. While the pandemic and its aftermath may have played a role, the \"Great Resignation\" was also fueled by a growing sense of dissatisfaction among workers who felt that they were being taken advantage of."
+      },
+      "answer": "B",
+      "passage": "Many people believe that the \"Great Resignation\", which began during the COVID-19 pandemic, was caused by the pandemic and its aftermath. This, however, is not entirely true. While the pandemic and its aftermath may have played a role, the \"Great Resignation\" was also fueled by a growing sense of dissatisfaction among workers, who felt that they were being taken advantage of. ",
+      "explanation": "The sentence has two independent clauses that require a comma plus a coordinating conjunction to be joined together correctly. Option B has a comma and a conjunction, while the other options have only a comma or a conjunction, or punctuation that is unnecessary or illogical.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Hard",
+      "domain": "Standard English Conventions",
+      "id": "random_id_a8",
+      "question": "Which of the following sentences correctly uses the relative pronoun 'whose'?",
+      "choices": "A) The woman, whose dress was torn, asked for help.\nB) The dog, whose tail was wagging, ran towards its owner.\nC) The city, whose history is fascinating, is full of old buildings.\nD) The car, whose engine was broken, needed to be towed.",
+      "choice_map": {
+        "A": "The woman, whose dress was torn, asked for help.",
+        "B": "The dog, whose tail was wagging, ran towards its owner.",
+        "C": "The city, whose history is fascinating, is full of old buildings.",
+        "D": "The car, whose engine was broken, needed to be towed."
+      },
+      "answer": "B",
+      "passage": "The word 'whose' is a relative pronoun, which means it connects a dependent clause to a noun or pronoun in the main clause. But it can only be used in certain situations. For example, the word 'whose' can only be used to refer to a noun that is \"the possessor of something.\" This means that the word 'whose' can be used to describe a noun that owns or possesses something else, but it cannot be used to describe a noun that is simply related to something else.",
+      "explanation": "The sentence \"The dog, whose tail was wagging, ran towards its owner.\" correctly uses the relative pronoun \"whose.\" The word \"whose\" is used to refer to the dog, which \"possesses\" its tail. The other sentences use \"whose\" incorrectly because they are used to refer to something that is simply related to the noun, not the possessor of the noun. For example, in sentence A, the woman does not \"possess\" her dress; in sentence C, the city does not \"possess\" its history; and in sentence D, the car does not \"possess\" its engine.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Hard",
+      "domain": "Expression of Ideas",
+      "id": "4c65f78e",
+      "question": "In the sentence, \"I ask that you refrain from looking at your phones during my lecture,\" the phrase \u201crefrain from\u201d is used to",
+      "choices": "A) imply that the reader is not allowed to use their phone during the lecture.\nB) emphasize the speaker\u2019s request that the reader avoid using their phone.\nC) suggest that the reader might be tempted to use their phone during the lecture.\nD) warn the reader that they will be punished if they use their phone during the lecture.",
+      "choice_map": {
+        "A": "imply that the reader is not allowed to use their phone during the lecture.",
+        "B": "emphasize the speaker\u2019s request that the reader avoid using their phone.",
+        "C": "suggest that the reader might be tempted to use their phone during the lecture.",
+        "D": "warn the reader that they will be punished if they use their phone during the lecture."
+      },
+      "answer": "C",
+      "passage": "The use of the phrase \u201crefrain from\u201d suggests that the speaker believes that the reader will be tempted to do something they should avoid, which is to look at their phone during the lecture.  To explain what the speaker believes about the reader, it is most effective to continue by explaining what the reader is likely to be tempted to do during the lecture. What is the most likely reason why the writer uses the phrase \u201crefrain from\u201d in the sentence?",
+      "explanation": "The phrase \"refrain from\" suggests that the speaker believes that the reader will be tempted to look at their phone during the lecture.  The writer uses this phrase to emphasize the speaker\u2019s request that the reader avoid using their phone during the lecture.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Hard",
+      "domain": "Information and Ideas",
+      "id": "6c38c21a",
+      "question": "The main idea of the text is that",
+      "choices": "A) genes contain instructions for building and maintaining living organisms.\nB) the study of genetics is the study of genes.\nC) changes in genes often lead to the evolution of new species.\nD) some of the most interesting discoveries in genetics have been about how genes change over time.",
+      "choice_map": {
+        "A": "genes contain instructions for building and maintaining living organisms.",
+        "B": "the study of genetics is the study of genes.",
+        "C": "changes in genes often lead to the evolution of new species.",
+        "D": "some of the most interesting discoveries in genetics have been about how genes change over time."
+      },
+      "answer": "C",
+      "passage": "The study of genetics is the study of genes.  Scientists have discovered that genes contain instructions for building and maintaining living organisms. These instructions are contained within the sequence of chemicals that make up a gene. Some of the most interesting discoveries in genetics have been about how genes change over time, and these changes often lead to the evolution of new species. What is the main idea of the text?",
+      "explanation": "The text emphasizes that changes in genes lead to the evolution of new species.  This is the central idea of the passage.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "English",
+      "difficulty": "Hard",
+      "domain": "Expression of Ideas",
+      "id": "6860a419",
+      "question": "This passage suggests that the two writers",
+      "choices": "A) are similar in their use of language.\nB) have different views of the American experience.\nC) are both working to challenge conventional ideas about Black life in America.\nD) are both struggling to make sense of their personal experiences.",
+      "choice_map": {
+        "A": "are similar in their use of language.",
+        "B": "have different views of the American experience.",
+        "C": "are both working to challenge conventional ideas about Black life in America.",
+        "D": "are both struggling to make sense of their personal experiences."
+      },
+      "answer": "A",
+      "passage": "The author is trying to show that while the two writers are very different, they are still linked by the shared experiences that shaped their work. Both authors write about the difficult lives of Black people in America. Both authors use a powerful and evocative style that helps to bring their stories to life. Which choice best describes the author's main point?",
+      "explanation": "The passage discusses the authors' shared experiences and their shared style of writing. This suggests that the author is trying to show how the two writers are similar.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Easy",
+      "domain": "Geometry and Trigonometry",
+      "id": "random_id_c1",
+      "question": "A circle has a radius of 5 centimeters. What is the circumference of the circle in centimeters?  (Use $\\pi \\approx 3.14$)",
+      "choices": "A) 15.7\nB) 31.4\nC) 78.5\nD) 157",
+      "choice_map": {
+        "A": "15.7",
+        "B": "31.4",
+        "C": "78.5",
+        "D": "157"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius.  Substituting 5 for $r$ and 3.14 for $\\pi$, we get $C = 2(3.14)(5) = 31.4$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Easy",
+      "domain": "Algebra",
+      "id": "f84da248",
+      "question": "If $x+5 = 12$, what is the value of $x$?",
+      "choices": "A) 2\nB) 7\nC) 17\nD) 60",
+      "choice_map": {
+        "A": "2",
+        "B": "7",
+        "C": "17",
+        "D": "60"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "To solve for \\(x\\), we subtract 5 from both sides of the equation: \\(x + 5 - 5 = 12 - 5\\), which simplifies to \\(x = 7\\).",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Easy",
+      "domain": "Problem-Solving and Data Analysis",
+      "id": "random_id_a1",
+      "question": "A survey of 100 people found that 60 people like apples, 40 people like oranges, and 20 people like both apples and oranges. How many people like only apples?",
+      "choices": "A) 20\nB) 40\nC) 60\nD) 80",
+      "choice_map": {
+        "A": "20",
+        "B": "40",
+        "C": "60",
+        "D": "80"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "We can use a Venn Diagram to represent the information given. \\begin{align*} \\text{People who like only apples} &= \\text{People who like apples} - \\text{People who like both apples and oranges} \\\\ &= 60 - 20\\\\ &= 40 \\end{align*} Therefore, 40 people like only apples.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Easy",
+      "domain": "Geometry and Trigonometry",
+      "id": "f21c6b4d",
+      "question": "In a right triangle, one angle measures 30 degrees. The length of the hypotenuse of this triangle is 8. What is the length of the shorter leg?",
+      "choices": "A) 2\nB) 4\nC) 4\\sqrt{3}\nD) 8\\sqrt{3}",
+      "choice_map": {
+        "A": "2",
+        "B": "4",
+        "C": "4\\sqrt{3}",
+        "D": "8\\sqrt{3}"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "A 30-60-90 right triangle has side ratios of $x$, $x\\sqrt{3}$, and $2x$. Since the hypotenuse is 8, we know $2x = 8$, so $x=4$.  The shorter leg is equal to $x$, so its length is 4.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Easy",
+      "domain": "Advanced Math",
+      "id": "3a82227f",
+      "question": "The expression $\\frac{1}{x} - \\frac{1}{x+1}$ is equivalent to which of the following?",
+      "choices": "A) $\\frac{1}{x^2 + x}$\nB) $\\frac{1}{x^2 + 1}$\nC) $\\frac{1}{x(x+1)}$\nD) $\\frac{1}{x(x-1)}$",
+      "choice_map": {
+        "A": "$\\frac{1}{x^2 + x}$",
+        "B": "$\\frac{1}{x^2 + 1}$",
+        "C": "$\\frac{1}{x(x+1)}$",
+        "D": "$\\frac{1}{x(x-1)}$"
+      },
+      "answer": "C",
+      "passage": "",
+      "explanation": "To combine the fractions, we need a common denominator. The common denominator is $x(x+1)$.  Multiplying the first fraction by $\\frac{x+1}{x+1}$ and the second fraction by $\\frac{x}{x}$ gives $\\frac{x+1}{x(x+1)} - \\frac{x}{x(x+1)}$.  Combining the numerators, we get $\\frac{x + 1 - x}{x(x+1)}$, which simplifies to $\\frac{1}{x(x+1)}$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Easy",
+      "domain": "Algebra",
+      "id": "28b0f83f",
+      "question": "If $x+y=5$ and $x-y=1$, what is the value of $x$?",
+      "choices": "A) 2\nB) 3\nC) 4\nD) 5",
+      "choice_map": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "Adding the two equations together, we eliminate $y$ and get $2x = 6$. Dividing both sides by 2, we find $x = 3$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Easy",
+      "domain": "Advanced Math",
+      "id": "random_id_c5",
+      "question": "If $x^2 - 4 = 0$, what is the value of $x$?",
+      "choices": "A) -2\nB) 2\nC) 4\nD) -2 and 2",
+      "choice_map": {
+        "A": "-2",
+        "B": "2",
+        "C": "4",
+        "D": "-2 and 2"
+      },
+      "answer": "D",
+      "passage": "",
+      "explanation": "The equation $x^2 - 4 = 0$ can be factored as $(x+2)(x-2) = 0$. For this equation to be true, either $(x+2) = 0$ or $(x-2) = 0$. Solving for $x$ in both cases gives us $x = -2$ or $x = 2$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Easy",
+      "domain": "Geometry and Trigonometry",
+      "id": "random_id_5",
+      "question": "A square has a side length of 5 units. What is the area of the square?",
+      "choices": "A) 5\nB) 10\nC) 20\nD) 25",
+      "choice_map": {
+        "A": "5",
+        "B": "10",
+        "C": "20",
+        "D": "25"
+      },
+      "answer": "D",
+      "passage": "",
+      "explanation": "The area of a square is found by squaring the side length.  Therefore, the area of the square is 5\u00b2 = 25 square units.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Easy",
+      "domain": "Advanced Math",
+      "id": "random_id_a2",
+      "question": "The expression $\\frac{x^2 + 3x - 4}{x^2 - 1}$ is equivalent to which of the following?",
+      "choices": "A) $\\frac{x-4}{x-1}$\nB) $\\frac{x-1}{x+1}$\nC) $\\frac{x+4}{x+1}$\nD) $\\frac{x+4}{x-1}$",
+      "choice_map": {
+        "A": "$\\frac{x-4}{x-1}$",
+        "B": "$\\frac{x-1}{x+1}$",
+        "C": "$\\frac{x+4}{x+1}$",
+        "D": "$\\frac{x+4}{x-1}$"
+      },
+      "answer": "C",
+      "passage": "",
+      "explanation": "We can factor the numerator and denominator to simplify the expression. The numerator factors as $(x+4)(x-1)$ and the denominator factors as $(x+1)(x-1)$. The common factor of $(x-1)$ cancels out, leaving us with $\\frac{x+4}{x+1}$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Easy",
+      "domain": "Advanced Math",
+      "id": "8d3b424f",
+      "question": "Which of the following is equivalent to the expression $(x^2+1)(x^2-1)$?",
+      "choices": "A) x^4 - 1\nB) x^4 + 1\nC) x^4 + 2x^2 + 1\nD) x^4 - 2x^2 + 1",
+      "choice_map": {
+        "A": "x^4 - 1",
+        "B": "x^4 + 1",
+        "C": "x^4 + 2x^2 + 1",
+        "D": "x^4 - 2x^2 + 1"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "This expression is in the form of the difference of squares: (a + b)(a - b) = a^2 - b^2. In this case, a = x^2 and b = 1.  Therefore, (x^2 + 1)(x^2 - 1) = (x^2)^2 - 1^2 = x^4 - 1.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Advanced Math",
+      "id": "random_id_a8",
+      "question": "The function f(x) is defined by $f(x) = 3x^2 - 2x + 1$. What is the value of $f(2)$?",
+      "choices": "A) 9\nB) 11\nC) 13\nD) 15",
+      "choice_map": {
+        "A": "9",
+        "B": "11",
+        "C": "13",
+        "D": "15"
+      },
+      "answer": "C",
+      "passage": "",
+      "explanation": "To find f(2), we substitute 2 for x in the function: f(2) = 3(2)^2 - 2(2) + 1.  Simplifying, we get f(2) = 12 - 4 + 1 = 9.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Algebra",
+      "id": "random_id_c2",
+      "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+      "choices": "A) 2\nB) 3\nC) 4\nD) 5",
+      "choice_map": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "We can solve this system of equations using elimination. Multiplying the second equation by 3, we get $3x - 3y = 3$.  Adding this equation to the first equation, we get $5x = 15$.  Dividing both sides by 5, we get $x = 3$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Geometry and Trigonometry",
+      "id": "b69b3b19",
+      "question": "A triangle has sides of length 5, 12, and 13. Is this a right triangle? Explain your reasoning.",
+      "choices": "A) Yes, because 5^2 + 12^2 = 13^2.\nB) Yes, because 5 + 12 = 13.\nC) No, because 5^2 + 12^2 \\neq 13^2.\nD) No, because 5 + 12 \\neq 13.",
+      "choice_map": {
+        "A": "Yes, because 5^2 + 12^2 = 13^2.",
+        "B": "Yes, because 5 + 12 = 13.",
+        "C": "No, because 5^2 + 12^2 \\neq 13^2.",
+        "D": "No, because 5 + 12 \\neq 13."
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "A triangle is a right triangle if and only if the sum of the squares of the two shorter sides is equal to the square of the longest side. In this case, 5^2 + 12^2 = 25 + 144 = 169, and 13^2 = 169.  Therefore, the triangle is a right triangle.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Advanced Math",
+      "id": "random_id_c9",
+      "question": "The function $f(x)$ is defined by $f(x) = 3x^2 - 5$. What is the value of $f(2)$?",
+      "choices": "A) -11\nB) -5\nC) 7\nD) 19",
+      "choice_map": {
+        "A": "-11",
+        "B": "-5",
+        "C": "7",
+        "D": "19"
+      },
+      "answer": "C",
+      "passage": "",
+      "explanation": "To find $f(2)$, we substitute 2 for $x$ in the function: $f(2) = 3(2)^2 - 5 = 3(4) - 5 = 12 - 5 = 7$. Therefore, $f(2) = 7$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Geometry and Trigonometry",
+      "id": "random_id_b6",
+      "question": "A circle has a radius of 5.  What is the circumference of the circle?",
+      "choices": "A) 5\\pi\nB) 10\\pi\nC) 25\\pi\nD) 50\\pi",
+      "choice_map": {
+        "A": "5\\pi",
+        "B": "10\\pi",
+        "C": "25\\pi",
+        "D": "50\\pi"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius. In this case, $r = 5$, so the circumference is $C = 2\\pi (5) = 10\\pi$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Geometry and Trigonometry",
+      "id": "random_id_c2",
+      "question": "A circle has a radius of 5. What is the circumference of the circle? ",
+      "choices": "A) 5\\pi\nB) 10\\pi\nC) 25\\pi\nD) 50\\pi",
+      "choice_map": {
+        "A": "5\\pi",
+        "B": "10\\pi",
+        "C": "25\\pi",
+        "D": "50\\pi"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "The circumference of a circle is given by the formula C = 2\u03c0r, where r is the radius.  Substituting 5 for r gives us C = 2\u03c0(5), or C = 10\u03c0.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Geometry and Trigonometry",
+      "id": "random_id_e4",
+      "question": "A circle has a radius of 5 centimeters. What is the circumference of the circle, in centimeters?  (Express your answer in terms of $\\pi$.)",
+      "choices": "A) 5$\\pi$\nB) 10$\\pi$\nC) 25$\\pi$\nD) 50$\\pi$",
+      "choice_map": {
+        "A": "5$\\pi$",
+        "B": "10$\\pi$",
+        "C": "25$\\pi$",
+        "D": "50$\\pi$"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where r is the radius of the circle.  Substituting 5 for r, we get $C = 2\\pi(5) = 10\\pi$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Geometry and Trigonometry",
+      "id": "f8b7928d",
+      "question": "In the figure below, triangle ABC is isosceles with AB = AC, and the measure of angle BAC is 40 degrees.  What is the measure of angle ABC?",
+      "choices": "A) 40\nB) 70\nC) 80\nD) 100",
+      "choice_map": {
+        "A": "40",
+        "B": "70",
+        "C": "80",
+        "D": "100"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "Since triangle ABC is isosceles, angle ABC and angle ACB have the same measure.  The sum of the measures of the angles in a triangle is 180 degrees.  Therefore, the measure of angle ABC is (180 - 40)/2 = 70 degrees.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Advanced Math",
+      "id": "4a32f0f5",
+      "question": "The function $f(x)$ is defined by $f(x) = 2x^2 - 3x + 1$. What is the value of $f(2)$?",
+      "choices": "A) 3\nB) 5\nC) 7\nD) 9",
+      "choice_map": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "9"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "To find $f(2)$, we substitute 2 for x in the function: $f(2) = 2(2)^2 - 3(2) + 1 = 8 - 6 + 1 = 3$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Geometry and Trigonometry",
+      "id": "3795d245",
+      "question": "In the $xy$-plane, a circle has center $(3,2)$ and a radius of 5. Which of the following points lies on the circle? ",
+      "choices": "A) (3,7)\nB) (8,2)\nC) (3,-3)\nD) (0,2)",
+      "choice_map": {
+        "A": "(3,7)",
+        "B": "(8,2)",
+        "C": "(3,-3)",
+        "D": "(0,2)"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "The distance from the center of the circle to any point on the circle is equal to the radius of the circle.  The distance between the points $(3,2)$ and $(8,2)$ is $8 - 3 = 5$, so the point $(8,2)$ lies on the circle.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Problem-Solving and Data Analysis",
+      "id": "random_id_8",
+      "question": "A group of friends went on a camping trip and bought a total of 120 snacks. They bought 3 times as many bags of chips as boxes of cookies.  If they bought 24 boxes of cookies, how many bags of chips did they buy?",
+      "choices": "A) 12\nB) 36\nC) 72\nD) 96",
+      "choice_map": {
+        "A": "12",
+        "B": "36",
+        "C": "72",
+        "D": "96"
+      },
+      "answer": "C",
+      "passage": "",
+      "explanation": "Since they bought 3 times as many bags of chips as boxes of cookies, they bought 3 * 24 = 72 bags of chips.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Algebra",
+      "id": "random_id_a1",
+      "question": "If $2x + 3y = 12$ and $x - y = 1$, what is the value of $x$?",
+      "choices": "A) 2\nB) 3\nC) 4\nD) 5",
+      "choice_map": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "To solve for $x$, we can use elimination.  Multiplying the second equation by 3, we get $3x - 3y = 3$. Adding this equation to the first equation, we get $5x = 15$, so $x = 3$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Advanced Math",
+      "id": "random_id_a9",
+      "question": "If  $x^2 + 2x - 15 = 0$, what is the value of $x$?",
+      "choices": "A) -5 and 3\nB) 5 and -3\nC) -5 and -3\nD) 5 and 3",
+      "choice_map": {
+        "A": "-5 and 3",
+        "B": "5 and -3",
+        "C": "-5 and -3",
+        "D": "5 and 3"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "We can factor the quadratic equation as (x + 5)(x - 3) = 0.  For the product of two terms to be equal to zero, at least one of the terms must be equal to zero.  Setting each term equal to zero, we get x + 5 = 0 or x - 3 = 0.  Solving for x, we get x = -5 and x = 3.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Geometry and Trigonometry",
+      "id": "9462ef8d",
+      "question": "A circle has a radius of 5 units.  What is the area, in square units, of a sector of this circle that has a central angle of 72 degrees?",
+      "choices": "A) 5 \\pi\nB) 10 \\pi\nC) 20 \\pi\nD) 50 \\pi",
+      "choice_map": {
+        "A": "5 \\pi",
+        "B": "10 \\pi",
+        "C": "20 \\pi",
+        "D": "50 \\pi"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "The area of a sector of a circle is given by the formula $\\frac{\\theta}{360} \\pi r^2$, where $\\theta$ is the central angle in degrees and $r$ is the radius. In this case, we have $\\theta = 72$ and $r = 5$, so the area of the sector is $\\frac{72}{360} \\pi (5^2) = \\frac{1}{5} \\pi (25) = 5\\pi$ square units.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Geometry and Trigonometry",
+      "id": "random_id_12",
+      "question": "A circle has a radius of 5.  What is the circumference of the circle?",
+      "choices": "A) 5\\pi\nB) 10\\pi\nC) 25\\pi\nD) 50\\pi",
+      "choice_map": {
+        "A": "5\\pi",
+        "B": "10\\pi",
+        "C": "25\\pi",
+        "D": "50\\pi"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "The circumference of a circle is given by the formula C = 2\\pi r, where r is the radius.  Substituting 5 for r, we get C = 2\\pi (5) = 10\\pi.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Algebra",
+      "id": "random_id_c9",
+      "question": "If 3x - 2y = 10 and 2x + y = 7, what is the value of x?",
+      "choices": "A) 2\nB) 3\nC) 4\nD) 5",
+      "choice_map": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "To solve for x, we can use elimination. Multiplying the second equation by 2, we get 4x + 2y = 14. Adding this equation to the first equation (3x - 2y = 10), we eliminate y:  7x = 24. Dividing both sides by 7, we get x = 24/7, or x = 3. ",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Problem-Solving and Data Analysis",
+      "id": "random_id_d7",
+      "question": "A group of friends is planning a trip. They decide to rent a car for \\$40 per day plus a one-time insurance fee of \\$15.  If the total cost of the car rental is \\$235, for how many days did they rent the car?",
+      "choices": "A) 4\nB) 5\nC) 6\nD) 7",
+      "choice_map": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "Let \\$d$ represent the number of days the car was rented. The total cost of the car rental can be represented by the equation \\$40d + \\$15 = \\$235.  Solving for \\$d$, we get \\$d = 5$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Advanced Math",
+      "id": "f42fd89d",
+      "question": "The function $f(x)$ is defined by $f(x) = 2x^2 + 3x - 1$. What is the value of $f(-2)$?",
+      "choices": "A) -9\nB) -3\nC) 3\nD) 9",
+      "choice_map": {
+        "A": "-9",
+        "B": "-3",
+        "C": "3",
+        "D": "9"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "Substituting -2 for x in the expression for f(x), we get $f(-2) = 2(-2)^2 + 3(-2) - 1 = 8 - 6 - 1 = 1$. Therefore, the value of f(-2) is -3.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Problem-Solving and Data Analysis",
+      "id": "random_id_e3",
+      "question": "A survey asked 100 people whether they prefer to eat pizza or tacos. 60 people said they prefer pizza, and 40 people said they prefer tacos. Of the people surveyed, what percentage prefer tacos?",
+      "choices": "A) 4%\nB) 20%\nC) 40%\nD) 60%",
+      "choice_map": {
+        "A": "4%",
+        "B": "20%",
+        "C": "40%",
+        "D": "60%"
+      },
+      "answer": "C",
+      "passage": "",
+      "explanation": "The percentage of people who prefer tacos is found by dividing the number who prefer tacos by the total number of people surveyed and multiplying by 100%: (40/100) * 100% = 40%.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Advanced Math",
+      "id": "8a4e419b",
+      "question": "If $x^2 + 2x - 15 = 0$, what is the sum of the solutions to this equation?",
+      "choices": "A) -2\nB) 2\nC) 5\nD) 15",
+      "choice_map": {
+        "A": "-2",
+        "B": "2",
+        "C": "5",
+        "D": "15"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "The sum of the solutions to a quadratic equation in the form $ax^2 + bx + c = 0$ is given by $-b/a$.  In this case, the sum of the solutions is $-2/1 = -2$.  Therefore, the sum of the solutions to the equation $x^2 + 2x - 15 = 0$ is -2.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Algebra",
+      "id": "23c9d83a",
+      "question": "If $3x+7y=14$ and $2x-5y=1$, what is the value of $x+y$?",
+      "choices": "A) 2\nB) 3\nC) 4\nD) 5",
+      "choice_map": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "To solve for $x+y$, we can multiply the first equation by 5 and the second equation by 7 to eliminate $y$. This gives us $15x + 35y = 70$ and $14x - 35y = 7$. Adding these equations together, we get $29x = 77$. Solving for $x$, we find $x=\\frac{77}{29}$.  Substituting this value of $x$ into the first equation, we get $3(\\frac{77}{29})+7y=14$. Solving for $y$, we find $y=\\frac{35}{29}$. Therefore, $x+y = \\frac{77}{29} + \\frac{35}{29} = \\frac{112}{29} = 3\\frac{25}{29}$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Advanced Math",
+      "id": "random_id_c9",
+      "question": "What is the value of $x$ that satisfies the equation $(x+1)^2 = 16$?",
+      "choices": "A) -5\nB) -3\nC) 3\nD) 5",
+      "choice_map": {
+        "A": "-5",
+        "B": "-3",
+        "C": "3",
+        "D": "5"
+      },
+      "answer": "C",
+      "passage": "",
+      "explanation": "To solve for $x$, we take the square root of both sides of the equation: $\\sqrt{(x+1)^2} = \\sqrt{16}$. This gives us $x + 1 = \\pm 4$. Solving for $x$ in each case, we get $x = 4 - 1 = 3$ or $x = -4 - 1 = -5$.  Of these two solutions, only 3 is given as a choice.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Geometry and Trigonometry",
+      "id": "f486a329",
+      "question": "A circle has a radius of 5. What is the circumference of the circle? ",
+      "choices": "A) 5$\\pi$\nB) 10$\\pi$\nC) 25$\\pi$\nD) 100$\\pi$",
+      "choice_map": {
+        "A": "5$\\pi$",
+        "B": "10$\\pi$",
+        "C": "25$\\pi$",
+        "D": "100$\\pi$"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "The circumference of a circle is given by the formula $C = 2\\pi r$, where $r$ is the radius.  Substituting 5 for $r$ gives us $C = 2\\pi (5) = 10\\pi$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Advanced Math",
+      "id": "random_id_c4",
+      "question": "If $f(x) = 2x^2 + 3x - 1$, what is the value of $f(-2)$?",
+      "choices": "A) -9\nB) -3\nC) 3\nD) 9",
+      "choice_map": {
+        "A": "-9",
+        "B": "-3",
+        "C": "3",
+        "D": "9"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "Substituting -2 for x in the expression for f(x) gives:  \n\n f(-2) = 2(-2)^2 + 3(-2) - 1 = 2(4) - 6 - 1 = 8 - 6 - 1 = -9",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Medium",
+      "domain": "Problem-Solving and Data Analysis",
+      "id": "random_id_15",
+      "question": "A group of friends are planning a trip. They decide to split the cost of the trip evenly among themselves.  If the total cost of the trip is \\$1500 and there are 5 friends, how much will each friend pay?",
+      "choices": "A) 30\nB) 100\nC) 300\nD) 750",
+      "choice_map": {
+        "A": "30",
+        "B": "100",
+        "C": "300",
+        "D": "750"
+      },
+      "answer": "C",
+      "passage": "",
+      "explanation": "To find out how much each friend will pay, we divide the total cost by the number of friends: $1500 / 5 = $300.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Geometry and Trigonometry",
+      "id": "a232ac8e",
+      "question": "In the $xy$-plane, line $l$ passes through points $(2,4)$ and $(6,-8)$. What is the slope of line $l$?",
+      "choices": "A) -3\nB) -2\nC) 2\nD) 3",
+      "choice_map": {
+        "A": "-3",
+        "B": "-2",
+        "C": "2",
+        "D": "3"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "The slope of a line passing through two points can be found using the formula: $m = \\frac{y_2 - y_1}{x_2 - x_1}$. Substituting the coordinates (2, 4) and (6, -8) for $(x_1, y_1)$ and $(x_2, y_2)$, respectively, yields $m = \\frac{-8 - 4}{6 - 2}$. Simplifying the expression gives $m = \\frac{-12}{4}$, or $m = -3$. Therefore, the slope of line $l$ is $-3$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Problem-Solving and Data Analysis",
+      "id": "random_id_21",
+      "question": "A group of 100 students were surveyed about their favorite type of music. 60 students said they like pop music, 45 students said they like rock music, and 20 students said they like both pop and rock music. How many students like only pop music?",
+      "choices": "A) 20\nB) 40\nC) 60\nD) 80",
+      "choice_map": {
+        "A": "20",
+        "B": "40",
+        "C": "60",
+        "D": "80"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "We can use a Venn diagram to solve this problem.  Let the circle labeled \"Pop\" represent all students who like pop music, and let the circle labeled \"Rock\" represent all students who like rock music. Since 20 students like both pop and rock music, we write \"20\" in the overlapping section of the circles. Since 60 students like pop music, and 20 of those also like rock music, 60 \u2013 20 = 40 students like only pop music. Thus, the answer is 40.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Advanced Math",
+      "id": "a987f231",
+      "question": "If the function $f(x) = 2x^2 + 3x - 1$ is graphed in the $xy$-plane, what is the $y$-coordinate of the $y$-intercept of the graph?",
+      "choices": "A) -1\nB) 1\nC) 2\nD) 3",
+      "choice_map": {
+        "A": "-1",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "The y-intercept of a graph is the point where the graph crosses the y-axis. This occurs when $x=0$.  Substituting 0 for $x$ in the function $f(x) = 2x^2 + 3x - 1$, we get $f(0) = 2(0)^2 + 3(0) - 1 = -1$. Therefore, the y-coordinate of the y-intercept is -1.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Algebra",
+      "id": "13b8a32c",
+      "question": "If $x^2 + 2x - 3 = 0$, what is the value of $x^3 + 2x^2 - 3x$?",
+      "choices": "A) -3\nB) 0\nC) 3\nD) 9",
+      "choice_map": {
+        "A": "-3",
+        "B": "0",
+        "C": "3",
+        "D": "9"
+      },
+      "answer": "C",
+      "passage": "",
+      "explanation": "We can factor the given equation as $(x+3)(x-1)=0$.  This means that $x=-3$ or $x=1$.  Substituting either value into the expression $x^3 + 2x^2 - 3x$ gives us 3.  Therefore, the value of $x^3 + 2x^2 - 3x$ is 3.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Advanced Math",
+      "id": "f123456",
+      "question": "The function *f* is defined by *f*(x) = 3x^2 - 2x + 1. What is the value of *f*(2)?",
+      "choices": "A) 9\nB) 11\nC) 13\nD) 17",
+      "choice_map": {
+        "A": "9",
+        "B": "11",
+        "C": "13",
+        "D": "17"
+      },
+      "answer": "C",
+      "passage": "",
+      "explanation": "Substitute 2 for *x* in the function: *f*(2) = 3(2)^2 - 2(2) + 1 = 3(4) - 4 + 1 = 12 - 4 + 1 = 13.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Algebra",
+      "id": "random_id_a3",
+      "question": "The equation $\\frac{2x-3}{x+1} = 5$ is equivalent to which of the following equations?",
+      "choices": "A) 2x - 3 = 5x + 5\nB) 2x - 3 = 5x - 5\nC) 2x + 3 = 5x + 5\nD) 2x + 3 = 5x - 5",
+      "choice_map": {
+        "A": "2x - 3 = 5x + 5",
+        "B": "2x - 3 = 5x - 5",
+        "C": "2x + 3 = 5x + 5",
+        "D": "2x + 3 = 5x - 5"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "To solve for x, we multiply both sides of the equation by (x+1).  This gives us $2x - 3 = 5(x+1)$.  Distributing the 5 on the right side, we get $2x - 3 = 5x + 5$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Problem-Solving and Data Analysis",
+      "id": "random_id_d1",
+      "question": "The number of employees at a company increased by 10% in 2018 and decreased by 5% in 2019. If there were 1,000 employees at the end of 2017, how many employees were there at the end of 2019?",
+      "choices": "A) 950\nB) 1,000\nC) 1,050\nD) 1,100",
+      "choice_map": {
+        "A": "950",
+        "B": "1,000",
+        "C": "1,050",
+        "D": "1,100"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "At the end of 2018, the number of employees increased by 10%, so there were 1,000 + (10/100)*1,000 = 1,100 employees.  At the end of 2019, the number of employees decreased by 5%, so there were 1,100 - (5/100)*1,100 = 950 employees.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Advanced Math",
+      "id": "2c31ff5c",
+      "question": "The function $f(x)$ is defined by $f(x) = \\frac{x^2 - 4}{x - 2}$. For what value(s) of $x$ is $f(x)$ undefined?",
+      "choices": "A) 0\nB) 2\nC) -2\nD) 2 and -2",
+      "choice_map": {
+        "A": "0",
+        "B": "2",
+        "C": "-2",
+        "D": "2 and -2"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "A function is undefined when the denominator of the fraction is equal to zero. In this case, the denominator is $x-2$. Solving the equation $x-2 = 0$, we find that $x = 2$. Therefore, $f(x)$ is undefined when $x = 2$.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Geometry and Trigonometry",
+      "id": "random_id_c5",
+      "question": "A circle is inscribed in a square. The area of the square is 64 square units. What is the area of the circle?",
+      "choices": "A) 16\\pi\nB) 32\\pi\nC) 64\\pi\nD) 128\\pi",
+      "choice_map": {
+        "A": "16\\pi",
+        "B": "32\\pi",
+        "C": "64\\pi",
+        "D": "128\\pi"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "If the area of the square is 64, then each side of the square is 8. The diameter of the circle is equal to the side of the square, so the diameter of the circle is 8. The radius of the circle is half the diameter, or 4. The area of the circle is \\pi(r)^2 = \\pi(4)^2 = 16\\pi.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Geometry and Trigonometry",
+      "id": "random_id_9",
+      "question": "A regular hexagon is inscribed in a circle with radius 10. What is the perimeter of the hexagon?",
+      "choices": "A) 30\nB) 60\nC) 60\\sqrt{3}\nD) 120\\sqrt{3}",
+      "choice_map": {
+        "A": "30",
+        "B": "60",
+        "C": "60\\sqrt{3}",
+        "D": "120\\sqrt{3}"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "A regular hexagon can be divided into 6 equilateral triangles.  Each of these triangles has a side length equal to the radius of the circle, which is 10. Therefore, the perimeter of the hexagon is 6 * 10 = 60.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Advanced Math",
+      "id": "random_id_a9",
+      "question": "The equation $(x+2)^2 + (y-1)^2 = 4$ defines a circle in the $xy$-plane.  What is the radius of this circle?",
+      "choices": "A) 1\nB) 2\nC) 4\nD) 8",
+      "choice_map": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "8"
+      },
+      "answer": "B",
+      "passage": "",
+      "explanation": "The standard form of the equation of a circle with center $(h,k)$ and radius $r$ is $(x-h)^2 + (y-k)^2 = r^2$.  In this case, the equation of the circle is $(x+2)^2 + (y-1)^2 = 4$, which can be rewritten as $(x-(-2))^2 + (y-1)^2 = 2^2$.  Therefore, the radius of the circle is 2.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Advanced Math",
+      "id": "random_id_c1",
+      "question": "A function  is defined as \\(f(x) = \\frac{x^2 - 4}{x - 2}\\) for $x \\neq 2$.  What is the value of \\(f(5)\\)?",
+      "choices": "A) 7\nB) 9\nC) 11\nD) 13",
+      "choice_map": {
+        "A": "7",
+        "B": "9",
+        "C": "11",
+        "D": "13"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "To find the value of f(5), we substitute 5 for x in the function. This gives us f(5) = (5^2 - 4)/(5 - 2) = (25 - 4)/3 = 21/3 = 7.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Problem-Solving and Data Analysis",
+      "id": "f54c918d",
+      "question": "A store sells two types of cookies: chocolate chip and peanut butter. The store can sell a maximum of 100 cookies per day. On a particular day, the store sold 25 chocolate chip cookies. If the number of peanut butter cookies sold was 3 times the number of chocolate chip cookies sold, what was the number of peanut butter cookies sold that day?",
+      "choices": "A) 30\nB) 60\nC) 75\nD) 90",
+      "choice_map": {
+        "A": "30",
+        "B": "60",
+        "C": "75",
+        "D": "90"
+      },
+      "answer": "C",
+      "passage": "",
+      "explanation": "Since 25 chocolate chip cookies were sold, and the number of peanut butter cookies sold was 3 times that amount, the store sold 3 * 25 = 75 peanut butter cookies.",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Advanced Math",
+      "id": "8436f365",
+      "question": "The graph of the function \\(f(x) = x^2 + 2x - 3\\) intersects the x-axis at two points. What are the coordinates of these points of intersection?",
+      "choices": "A) (1, 0) and (-3, 0)\nB) (-1, 0) and (3, 0)\nC) (2, 0) and (-1, 0)\nD) (-2, 0) and (1, 0)",
+      "choice_map": {
+        "A": "(1, 0) and (-3, 0)",
+        "B": "(-1, 0) and (3, 0)",
+        "C": "(2, 0) and (-1, 0)",
+        "D": "(-2, 0) and (1, 0)"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "The x-intercepts of a function occur where the graph intersects the x-axis, meaning when y = 0. So, we need to solve the equation \\(0 = x^2 + 2x - 3\\). Factoring the quadratic, we get \\(0 = (x+3)(x-1)\\), which means \\(x = -3\\) or \\(x = 1\\).  Since the y-coordinate at the x-intercept is always 0, the points of intersection are (1, 0) and (-3, 0).",
+      "visual_type": "null"
+    },
+    {
+      "source": "PineSAT",
+      "source_archive": "https://api.jsonsilo.com/public/942c3c3b-3a0c-4be3-81c2-12029def19f5",
+      "section": "Math",
+      "difficulty": "Hard",
+      "domain": "Geometry and Trigonometry",
+      "id": "random_id_a5",
+      "question": "In the xy-plane, a circle has a diameter with endpoints at (1, 4) and (5, 2). What is the length of the radius of the circle?",
+      "choices": "A) 2\nB) 4\nC) 5\nD) 10",
+      "choice_map": {
+        "A": "2",
+        "B": "4",
+        "C": "5",
+        "D": "10"
+      },
+      "answer": "A",
+      "passage": "",
+      "explanation": "The radius of a circle is half the length of the diameter.  The length of the diameter can be found using the distance formula: \\sqrt{(5-1)^2 + (2-4)^2} = \\sqrt{4^2 + (-2)^2} = \\sqrt{20} = 2\\sqrt{5}. The radius is half of this length, or \\sqrt{5}, which is equal to 2.",
+      "visual_type": "null"
+    }
+  ]
+}
