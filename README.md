@@ -30,6 +30,7 @@ Edits made inside the live JupyterLite site stay in that browser unless they are
 - [content/03_numbers_all_the_way_down.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/03_numbers_all_the_way_down.ipynb): browser-friendly version of the tokens notebook, focusing on token counts, chunking, and embeddings as numbers.
 - [content/04_memory.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/04_memory.ipynb): shows that models only remember the messages you send, then builds browser-only memory with SQLite and optional embedding search.
 - [content/05_sat_test_taker.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/05_sat_test_taker.ipynb): tests a small browser model on SAT-style multiple-choice questions and scores the results.
+- [content/06_inside_a_model.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/06_inside_a_model.ipynb): looks inside an open-weight model package, including parameter counts, tensor inventories, shard files, and a plain-language explanation of what the downloaded weights are.
 - [content/webllm_starter.ipynb](/Users/ericvandusen/Documents/GitHub/small-models-lite/content/webllm_starter.ipynb): original starter notebook, kept temporarily as the broad sampler while the notebook series is being built.
 
 ### Broad sampler
